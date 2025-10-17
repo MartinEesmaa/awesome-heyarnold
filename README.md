@@ -22,6 +22,10 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [Helga's Cheese Festival](https://martineesmaa.itch.io/hahcf) - Created by Nicki Gee in 2013 and restored by Martin Eesmaa (2025), available on [GitHub](https://github.com/MartinEesmaa/HAHCF) under MIT license.
 
+- [Dress Up Helga](https://flashmuseum.org/dress-up-helga/) - A fan game dress up for Helga G. Pataki on Flash 8 made by Widowmura (her former DeviantArt account) on 17th November 2012.
+
+- [Dress up Arnold!](https://flashmuseum.org/dressup-arnold/) - After Helga dressup, a second fan game dress up for Arnold on Flash 7 made by Widowmura (her former DeviantArt account) on 15th January 2013.
+
 - [Hey Arnold and the Quest for the Lost Baseball Cards](https://lexaloffle.com/bbs/?tid=29417) - Created by PixelDough in 2017 using PICO-8 game engine with Lua code.
 
 - [Hey Arnold! The Videogame](https://www.youtube.com/watch?v=oDgQC3P3cvA) - Prototype cancelled fan video game of Unity Engine by Seashell Studio (Mexico) in 24th April 2018.
