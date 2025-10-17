@@ -8,6 +8,16 @@ This contains awesome lists about Hey Arnold! TV show from Nickelodeon (1996-200
 
 - Various USA & LATAM fan artists
 
+Artists from countries (including former artists):
+
+```
+Estonia, United States of America, Mexico, United Kingdom, Costa Rica,
+Finland, Indonesia, Australia, Japan, Ukraine, Chile, Mexico, Colombia,
+Argentina, Brazil, Russia, Hong Kong, Morocco, Canada, Uruguay, Spain,
+Switzerland, Norway, Sweden, Philippines, Kazakhstan, Germany, Peru 
+Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
+```
+
 # Fan games
 
 - [Helga's Cheese Festival](https://martineesmaa.itch.io/hahcf) - Created by Nicki Gee in 2013 and restored by Martin Eesmaa (2025), available on [GitHub](https://github.com/MartinEesmaa/HAHCF) under MIT license.
