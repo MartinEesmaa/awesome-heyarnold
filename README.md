@@ -14,6 +14,8 @@ This contains awesome lists about Hey Arnold! TV show from Nickelodeon (1996-200
 
 - [Hey Arnold and the Quest for the Lost Baseball Cards](https://lexaloffle.com/bbs/?tid=29417) - Created by PixelDough in 2017 using PICO-8 game engine with Lua code.
 
+- [Hey Arnold! The Videogame](https://www.youtube.com/watch?v=oDgQC3P3cvA) - Prototype cancelled fan video game of Unity Engine by Seashell Studio (Mexico) in 24th April 2018.
+
 - [O Sítio do Arnie](https://joturno.itch.io/arnie-ataca-novamente) (English: Arnie's Place) - Created by Joturno in 2022 using Catrobat Pocket Code game without code. (note only Android & Portuguese language)
 
 # Official video games based
