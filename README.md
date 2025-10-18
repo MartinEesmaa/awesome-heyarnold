@@ -32,6 +32,8 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [O Sítio do Arnie](https://joturno.itch.io/arnie-ataca-novamente) (English: Arnie's Place) - Created by Joturno in 2022 using Catrobat Pocket Code game without code. (note only Android & Portuguese language)
 
+- [Hey Arnold! Soundboard](https://scratch.mit.edu/projects/667333155/) - A Scratch game soundboard project made by Pumpkin_Girl12 for four characters in 2022.
+
 # Official video games based
 
 - [Hey Arnold! The Movie](https://archive.org/details/heyarnold_gba) (Nintendo Gameboy Advance) - Developed by Altron & released in 2002 by THQ. Available on Internet Archive to play the video game.
