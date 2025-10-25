@@ -34,6 +34,16 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [Hey Arnold! Soundboard](https://scratch.mit.edu/projects/667333155/) - A Scratch game soundboard project made by Pumpkin_Girl12 for four characters in 2022.
 
+## Android fan game apps
+
+- [Guess Arnold Characters Quiz](https://apkpure.com/guess-arnold-characters-quiz/com.reteam.guessarnoldcharactersquiz) - A quiz fan game app for guess by RE Team in September 24 2017.
+
+- [Hey Arnold Run](https://apkpure.com/hey-arnold-run/rush.game.jungle.hey.run) - An adventure classic fan-game by Nadev in May 19 2018.
+
+- [Hey Arnold Game](https://apkpure.com/hey-arnold-game/com.heyarnold.runokil) - A interesting running and jumping adventure fan-game by Kids Games Adventures in March 5 2018.
+
+- [Hey Arnold! Quiz](https://apkpure.com/hey-arnold-quiz/com.donabel.heyarnoldquiz) - Challenging trivia quizzes about Hey Arnold! fan-game by Mark Levy in November 24 2023.
+
 # Official video games based
 
 - [Hey Arnold! The Movie](https://archive.org/details/heyarnold_gba) (Nintendo Gameboy Advance) - Developed by Altron & released in 2002 by THQ. Available on Internet Archive to play the video game.
