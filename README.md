@@ -2,6 +2,8 @@
 
 This contains awesome lists about Hey Arnold! TV show from Nickelodeon (1996-2004) created by Craig Bartlett.
 
+Also this awesome list of repository is created & maintained by Martin Eesmaa since 2025.
+
 # Fan artists
 
 - [Martin Eesmaa](https://linktr.ee/martineesmaa) - an Estonian male artist since 2013, started to draw Hey Arnold fanarts since 2025 when shortaki week 2025 came out. I post on Tumblr, X (Twitter), Bluesky, Instagram, DeviantArt & TikTok and Reddit.
