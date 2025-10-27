@@ -52,7 +52,7 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [SHVC-AGING](https://github.com/MartinEesmaa/SHVC-AGING) - Super Nintendo Entertainment System Aging Test software, replaced Mario and Peach with Arnold and Helga. It is ready to go after putting characters in and shoutouts too.
 
-- [mp9-mods](https://github.com/MartinEesmaa/mp9-mods/tree/main/arnoldha/) - Collection of Martin Eesmaa's Mario Party 9 mods, note it is currently experimental for only Arnold character in the game. **Work in progress**
+- [mp9-mods](https://github.com/MartinEesmaa/mp9-mods/) - Collection of Martin Eesmaa's Mario Party 9 mods, note it is currently experimental for only Arnold character (arnoldha) and samplemod folder in the game. **Work in progress**
 
 # Official video games based
 
