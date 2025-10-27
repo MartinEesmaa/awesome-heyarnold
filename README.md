@@ -48,6 +48,12 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [Hey Arnold! Quiz](https://apkpure.com/hey-arnold-quiz/com.donabel.heyarnoldquiz) - Challenging trivia quizzes about Hey Arnold! fan-game by Mark Levy in November 24 2023.
 
+## Modded games/tools for fan based
+
+- [SHVC-AGING](https://github.com/MartinEesmaa/SHVC-AGING) - Super Nintendo Entertainment System Aging Test software, replaced Mario and Peach with Arnold and Helga. It is ready to go after putting characters in and shoutouts too.
+
+- [mp9-mods](https://github.com/MartinEesmaa/mp9-mods/tree/main/arnoldha/) - Collection of Martin Eesmaa's Mario Party 9 mods, note it is currently experimental for only Arnold character in the game. **Work in progress**
+
 # Official video games based
 
 - [Hey Arnold! The Movie](https://archive.org/details/heyarnold_gba) (Nintendo Gameboy Advance) - Developed by Altron & released in 2002 by THQ. Available on Internet Archive to play the video game.
