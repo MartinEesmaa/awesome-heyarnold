@@ -36,6 +36,8 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [Hey Arnold! Soundboard](https://scratch.mit.edu/projects/667333155/) - A Scratch game soundboard project made by Pumpkin_Girl12 for four characters in 2022.
 
+- [Helga's Cheese Festival (raylib vesion)](https://github.com/MartinEesmaa/hahcf-raylib) - Remastered raylib port version by Martin Eesmaa from the original version of Ren'Py, it is currently work in progress.
+
 ## Android fan game apps
 
 - [Guess Arnold Characters Quiz](https://apkpure.com/guess-arnold-characters-quiz/com.reteam.guessarnoldcharactersquiz) - A quiz fan game app for guess by RE Team in September 24 2017.
