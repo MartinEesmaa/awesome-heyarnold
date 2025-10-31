@@ -54,6 +54,8 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [mp9-mods](https://github.com/MartinEesmaa/mp9-mods/) - Collection of Martin Eesmaa's Mario Party 9 mods, note it is currently experimental for only Arnold character (arnoldha) and samplemod folder in the game. **Work in progress**
 
+- [GB Studio test project](https://github.com/MartinEesmaa/testgbprj) - Martin Eesmaa's GB Studio test project, showing sample shortaki pixel art on Nintendo Gameboy cartridge compiled using GB Studio.
+
 # Official video games based
 
 - [Hey Arnold! The Movie](https://archive.org/details/heyarnold_gba) (Nintendo Gameboy Advance) - Developed by Altron & released in 2002 by THQ. Available on Internet Archive to play the video game.
