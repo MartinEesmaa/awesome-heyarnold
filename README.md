@@ -32,7 +32,7 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador
 
 - [Hey Arnold! The Videogame](https://www.youtube.com/watch?v=oDgQC3P3cvA) - Prototype cancelled fan video game of Unity Engine by Seashell Studio (Mexico) in 24th April 2018.
 
-- [O Sítio do Arnie](https://joturno.itch.io/arnie-ataca-novamente) (English: Arnie's Place) - Created by Joturno in 2022 using Catrobat Pocket Code game without code. (note only Android & Portuguese language)
+- [O Sítio do Arnie](https://joturno.itch.io/arnie-ataca-novamente) (English: The Barn of Arnie) - Created by Joturno in 2022 using Catrobat Pocket Code game without code. (note only Android & Portuguese language)
 
 - [Hey Arnold! Soundboard](https://scratch.mit.edu/projects/667333155/) - A Scratch game soundboard project made by Pumpkin_Girl12 for four characters in 2022.
 
