@@ -38,6 +38,8 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 
 - [Helga's Cheese Festival (raylib vesion)](https://github.com/MartinEesmaa/hahcf-raylib) - Remastered raylib port version by Martin Eesmaa from the original version of Ren'Py, it is currently work in progress.
 
+- Hey Arnold: The Tunnel - Arnold and his friends gets stuck in tunnel by a rock (Joturno's second game future project request, cancelled after his fan game due to focus his projects)
+
 ## Android fan game apps
 
 - [Guess Arnold Characters Quiz](https://apkpure.com/guess-arnold-characters-quiz/com.reteam.guessarnoldcharactersquiz) - A quiz fan game app for guess by RE Team in September 24 2017.
