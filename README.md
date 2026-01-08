@@ -66,6 +66,18 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 
 - Hey Arnold! The Jungle Movie: Scavanger Hunt - Released in 2017 by Nickelodeon before a television film was released week later, it's like finding items for adventure. It is available on [Gamaverse](https://gamaverse.com/hey-arnold-the-jungle-movie-scavenger-hunt-game/) online play and [Internet Archive](https://archive.org/details/hatjmsh-html5) for offline play.
 
+## GitHub projects fan-based
+
+- [awesome-heyarnold](https://github.com/MartinEesmaa/awesome-heyarnold) - Contains awesome lists made by Martin Eesmaa. And also others too, since 2025. :)
+
+- [Hey Arnold GBA Mode 3 Animation](https://github.com/kcabezas/HeyArnold) - Released in 2016 and she made a test short Mode 3 Animation for Arnold face sprite.
+
+- [Hey Arnold Memory Game with React.js](https://github.com/patrickeast/memory) - Kick back and play a game of Hey Arnold! Memory, built with ReactJS, done in 2018 by Patrick East.
+
+- [Jogo da Memoria](https://github.com/Julenne/Jogo-da-Memoria) - Basic memory game fan based of Hey Arnold made by Arlene Pelenda.
+
+- [hey-arnold-api](https://github.com/aramirezdecruz3148/hey-arnold-api) - An API for the classic Nickelodeon show, "Hey, Arnold!" done by Alex Ramirez de Cruz and released in 2019, last updated on 2020.
+
 Coming soon...
 
 - Martin Eesmaa
