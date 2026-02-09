@@ -60,6 +60,8 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 
 # Official video games based
 
+- [Hey Arnold! Nick.com Games](https://archive.org/details/HeyArnoldGames) - Official Hey Arnold! games of Flash and Shockwave between 1999 and 2001. (12 Shockwave games, 5 Flash games, total 17)
+
 - [Hey Arnold! The Movie](https://archive.org/details/heyarnold_gba) (Nintendo Gameboy Advance) - Developed by Altron & released in 2002 by THQ. Available on Internet Archive to play the video game.
 
 - [Hey Arnold! Runaway Bus](https://archive.org/details/en_heyarnoldrgame_nick) - Released in 2002 for Windows PC version of 3DGroove powered game, it is also based to Hey Arnold! The Movie.
