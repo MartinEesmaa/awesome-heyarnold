@@ -62,6 +62,12 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 
   - [Arnold Shortman & Gerald Johanssen](https://gamebanana.com/mods/652123) - Arnold Shortman and Gerald Shortman character packs of LIJ1 created and released by Martin Eesmaa in February 2026. Available on Gamebanana and [GitHub via source project](https://github.com/MartinEesmaa/lij1-mods/tree/main/hasamples).
 
+- [Super Smash Bros. Ultimate (Wii U)](https://gamebanana.com/mods/571318) - Arnold Shortman character of Nintendo SSBU Wii U video game, released in January 2025 by wombokombo38 (model importer, UI)
+
+- [Mario Kart 7 (Wii)](https://gamebanana.com/mods/631779) - Gerald Johanssen character mod released by Mtgames in November 2025.
+
+- [Mario Kart 8 Deluxe (Wii U)](https://gamebanana.com/mods/406913) - Helga Pataki character over replacement Peach character. Released in October 2022 by JasonAwes.
+
 ## Official video games based
 
 - [Hey Arnold! Nick.com Games](https://archive.org/details/HeyArnoldGames) - Official Hey Arnold! games of Flash and Shockwave between 1999 and 2001. (12 Shockwave games, 5 Flash games, total 17)
