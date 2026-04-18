@@ -12,7 +12,7 @@ Also this awesome list of repository is created & maintained by Martin Eesmaa si
 
 Artists from countries (including former artists):
 
-```
+```text
 Estonia, United States of America, Mexico, United Kingdom, Costa Rica,
 Finland, Indonesia, Australia, Japan, Ukraine, Chile, Mexico, Colombia,
 Argentina, Brazil, Russia, Hong Kong, Morocco, Canada, Uruguay, Spain,
@@ -58,13 +58,21 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 
 - [GB Studio test project](https://github.com/MartinEesmaa/testgbprj) - Martin Eesmaa's GB Studio test project, showing sample shortaki pixel art on Nintendo Gameboy cartridge compiled using GB Studio.
 
-# Official video games based
+- Lego Indiana Jones: The Original Adventures
+
+  - [Arnold Shortman & Gerald Johanssen](https://gamebanana.com/mods/652123) - Arnold Shortman and Gerald Shortman character packs of LIJ1 created and released by Martin Eesmaa in February 2026. Available on Gamebanana and [GitHub via source project](https://github.com/MartinEesmaa/lij1-mods/tree/main/hasamples).
+
+## Official video games based
 
 - [Hey Arnold! Nick.com Games](https://archive.org/details/HeyArnoldGames) - Official Hey Arnold! games of Flash and Shockwave between 1999 and 2001. (12 Shockwave games, 5 Flash games, total 17)
 
-- [Hey Arnold! The Movie](https://archive.org/details/heyarnold_gba) (Nintendo Gameboy Advance) - Developed by Altron & released in 2002 by THQ. Available on Internet Archive to play the video game.
+- [Hey Arnold! The Movie](https://archive.org/details/heyarnold_gba) (Nintendo Game Boy Advance) - Developed by Altron & released in 2002 by THQ. Available on Internet Archive to play the video game. See the table below for release dates of regions and no Japanese region game released.
 
-- [Hey Arnold! Runaway Bus](https://archive.org/details/en_heyarnoldrgame_nick) - Released in 2002 for Windows PC version of 3DGroove powered game, it is also based to Hey Arnold! The Movie.
+| EU Prototype (beta) | USA (final) | EU (final) |
+| --- | --- | --- |
+| April 18 2002 | May 31 2002 | August 30 2002 |
+
+- [Hey Arnold! Runaway Bus](https://archive.org/details/en_heyarnoldrgame_nick) - Released in 2002 for Windows PC version of 3DGroove powered game and Adobe Shockwave portable version too, it is also based to Hey Arnold! The Movie.
 
 - Hey Arnold! The Jungle Movie: Scavanger Hunt - Released in 2017 by Nickelodeon before a television film was released week later, it's like finding items for adventure. It is available on [Gamaverse](https://gamaverse.com/hey-arnold-the-jungle-movie-scavenger-hunt-game/) online play and [Internet Archive](https://archive.org/details/hatjmsh-html5) for offline play.
 
