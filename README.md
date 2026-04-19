@@ -58,7 +58,7 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 
 - [GB Studio test project](https://github.com/MartinEesmaa/testgbprj) - Martin Eesmaa's GB Studio test project, showing sample shortaki pixel art on Nintendo Gameboy cartridge compiled using GB Studio.
 
-- Lego Indiana Jones: The Original Adventures
+- Lego Indiana Jones: The Original Adventures (LIJ1)
 
   - [Arnold Shortman & Gerald Johanssen](https://gamebanana.com/mods/652123) - Arnold Shortman and Gerald Shortman character packs of LIJ1 created and released by Martin Eesmaa in February 2026. Available on Gamebanana and [GitHub via source project](https://github.com/MartinEesmaa/lij1-mods/tree/main/hasamples).
 
@@ -67,6 +67,10 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 - [Mario Kart 7 (Wii)](https://gamebanana.com/mods/631779) - Gerald Johanssen character mod released by Mtgames in November 2025.
 
 - [Mario Kart 8 Deluxe (Wii U)](https://gamebanana.com/mods/406913) - Helga Pataki character over replacement Peach character. Released in October 2022 by JasonAwes.
+
+- [Minecraft Character Skins](https://www.planetminecraft.com/skins/?keywords=nickelodeon+%22Hey+Arnold%22) - Bunch of Hey Arnold! Minecraft character skins.
+
+- [Party Board](https://gamebanana.com/mods/600496) - Nicktoons Pack (Complete edition), it shows all some Nicktoons characters, including Arnold Shortman (well only one). Added Arnold Shortman character in July 2025 with Pack 5 Update by CheckABookout. NOTE: In United Kingdom, imgur blocks access after proposed fine in September 2025, that means it is unplayable for UK users (well mod creator uses Imgur) unless it is replaced with local copy or another image hosting platform for next update.
 
 ## Official video games based
 
