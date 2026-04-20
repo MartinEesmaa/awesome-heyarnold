@@ -20,6 +20,8 @@ Switzerland, Norway, Sweden, Philippines, Kazakhstan, Germany, Peru
 Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 ```
 
+See more lists of fan artists: [artists.md](artists.md)
+
 # Fan games
 
 - [Helga's Cheese Festival](https://martineesmaa.itch.io/hahcf) - Created by Nicki Gee in February 2012, released in June 2013 and restored by Martin Eesmaa (2025), available on [GitHub](https://github.com/MartinEesmaa/HAHCF) under MIT license.
