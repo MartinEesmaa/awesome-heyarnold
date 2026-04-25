@@ -1,5 +1,7 @@
 # Hei Arnold film videomäng GBA
 
+![hatmeuhack](img/HAEUHACK-MartinEesmaa.png)
+
 ## Sohk koodid
 
 Sohkkoodid on tehtud poolt Martin Eesmaa.
