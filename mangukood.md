@@ -24,10 +24,10 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 | Võim üles | `33004158 0001` | Pole lisateavet |
 | Täht | `3300415D 0001` | Muusika täht algab ja saad ette vaenlased ilma pihta (NB: bossid asemel võib lõhkuda) |
 | Punane tomat | `330047C6 0001` | Piiramatu tomatid |
-| Paper | `330047C8 0001` | Piiramatu paperid |
+| Paber | `330047C8 0001` | Piiramatu paberid |
 | Söörik | `330047CA 0001` | Piiramatu söörikud |
 | Korvpall | `330047CC 0001` | Piiramatu korvpallid |
-| Tualettpaperid | `330047CE 0001` | Vanaema Gertiel asja |
+| Tualettpaberid | `330047CE 0001` | Vanaema Gertiel asja |
 | Hambad | `330047D0 0001` | Vanaisa Phili asja |
 | Näts | `47D2`* | Vaikimisi relv |
 | Tundmatu 1 | `5A88`* | Ei klippe, pääse kaudu ja ei saa lüüa paha tegelased (aktiveeri 00) |
@@ -50,10 +50,10 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 4158 - Võim üles (aktiveeri: 01)
 415D - Täht (aktiveeri: 01)
 47C6 - Tomat (aktiveeri: 01)
-47C8 - Paper (aktiveeri: 01)
+47C8 - Paber (aktiveeri: 01)
 47CA - Söörik (aktiveeri: 01)
 47CC - Korvpall (aktiveeri: 01)
-47CE - Tualettpaperid (aktiveeri: 01)
+47CE - Tualettpaberid (aktiveeri: 01)
 47D0 - Hambad (aktiveeri: 01)
 47D2 - Näts
 5A88 - Ei klippe, pääse kaudu ja ei saa lüüa paha tegelased (aktiveeri 00)
