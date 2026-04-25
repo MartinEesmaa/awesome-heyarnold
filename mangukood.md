@@ -26,7 +26,7 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 | Punane tomat | `330047C6 0001` | Piiramatu tomatid |
 | Paper | `330047C8 0001` | Piiramatu paperid |
 | Söörik | `330047CA 0001` | Piiramatu söörikud |
-| Korvpall | `33047CC 0001` | Piiramatu korvpallid |
+| Korvpall | `330047CC 0001` | Piiramatu korvpallid |
 | Tualettpaperid | `330047CE 0001` | Vanaema Gertiel asja |
 | Hambad | `330047D0 0001` | Vanaisa Phili asja |
 | Näts | `47D2`* | Vaikimisi relv |
