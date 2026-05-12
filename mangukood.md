@@ -10,14 +10,20 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 
 | Kirjeldus | Kood lõhkuja | Lisateave |
 | --- | --- | --- |
+| Peida relv ikoon HUD | `33000024 00A0`<br>`33000026 00F0` | ? |
+| Peida pea ikoon HUD | `3300002C 00A0`<br>`3300002E 00F0` | ? |
 | Animatsioon tegelane liigutus menüüs | `0038`* | ? |
 | Keeled valimine keskendus | `33001510 0000` (vaikimisi inglise) | 00 - Inglise, 01 - Prantsuse, 02 - Saksa keel |
 | Piirkond | `3300168A` | 00: VAIKIMISI (Arnold tänav), 04: NICKI ELUTUBA, 08 - VÄRAV, 0C - FTI EHITUS, 10 - LINNATÄNAV, 14 - HELGA KODU |
-| TEGELANE | `3300168C 0000` (vaikimisi päevast Arnold) | 00-01: ARNOLD, 02-03: GERALD, 04-05: VANAISA PHIL, 06-07: VANAEMA GERTIE, 08-09: GERALD BUSS, 0A-0B: HELGA |
+| TEGELANE | `3300168C 0000` (vaikimisi päevast Arnold) | 00-01: ARNOLD, 02-03: GERALD, 04-05: VANAISA PHIL, 06-07: VANAEMA GERTIE, 08-09: GERALD BUSS, 0A-0B: HELGA (paaris numbrid hele heledus, paaritu numbrid tume heledus) |
+| Pane tagant tegelaseid | `3300168F 0003` | ? |
+| Eemalda vaenlased | `33001690 0001` | ? |
 | Postkastid? | `1AAC`* | `FFFF33` ei tea? |
-| Kollane tomat | `33001AB8 0001` | Aktiveerib saada kollane tomati |
-| KESKUNDU HELGA REŽIIM | `33001AD6 0001` | Aktiveerib keskenduda Helga tegelasi |
+| Kollane tomat | `33001AB8 00FF`<br>`33001ABA 00FF` | Kogub kõik kollased tomatid |
+| Tasemed tehtud | `33001ABC 00FF`<br>`33001ABE 00FF` | Tee kõik tasemed valmis |
+| KESKUNDU HELGA REŽIIM | `33001AD6 0001` | Aktiveerib keskenduda Helga tegelasi (inglise 1, prantsuse 2, saksa 4) |
 | Nuppud vajutatud | `1AD8`* | Võid alati vahetada Arnold ja Helga kohta tegelaseid ilma sisestamist saladuskoodi: `28 46 64 82` |
+| Aktiveeri saada läbi? | `22D0`* | ? |
 | Jalgpalli pead | `3300239E 0063` | Piiratuta jalgpalli pead |
 | Elud | `330023A0 0009` | Piiratuta elud |
 | Südad | `3300239C 0005` | Piiratuta südad |
