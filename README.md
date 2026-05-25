@@ -22,6 +22,18 @@ Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
 
 See more lists of fan artists: [artists.md](artists.md)
 
+# Fan communities
+
+If you're looking forward to join communities, you're feel free welcome to join our community with your respect and kindness. For under 18, it is recommend to ask your parent or legal guardian for permission before joining to online community.
+
+**Minors are not allowed to join 18+ SFW communities and please note NSFW communities are not allowed & displayed at all.**
+
+| Community | Owner | Started at | Members count total | Link (rules if applicable before link) | Age requirement |
+| --------- | ------- | ------- | ---- | ---- | --------------- |
+| Hey Arnold! OP The Patakis (Discord server) | Betaruga | 28.03.2023 01:09:22.542 (UTC) | 176+ members | <https://discord.gg/UcFqCkgJ8P> (please see the rules: [Rules](discordrules.md)) | Current 18+ (SFW), originally was 13+ gap |
+| Nickelodeon Hey Arnold! Fan club | Piers Ashley (Administrator) | 09.09.2018 | Around 3.1k | <https://facebook.com/groups/325037384739213> | Unreviewed |
+| Shortaki Love 🧢🎀 | hellengomes | 08.05.2025 | 35+ | <https://tumblr.com/communities/shortaki-love/> | Unreviewed |
+
 # Fan games
 
 - [Helga's Cheese Festival](https://martineesmaa.itch.io/hahcf) - Created by Nicki Gee in February 2012, released in June 2013 and restored by Martin Eesmaa (2025), available on [GitHub](https://github.com/MartinEesmaa/HAHCF) under MIT license.
