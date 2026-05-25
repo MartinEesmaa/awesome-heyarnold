@@ -14,6 +14,7 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 | Peida pea ikoon HUD | `3300002C 00A0`<br>`3300002E 00F0` | ? |
 | Animatsioon tegelane liigutus menüüs | `0038`* | ? |
 | Keeled valimine keskendus | `33001510 0000` (vaikimisi inglise) | 00 - Inglise, 01 - Prantsuse, 02 - Saksa keel |
+| Mänguparool | `1680`* | 9 baitid parooli |
 | Piirkond | `3300168A` | 00: VAIKIMISI (Arnold tänav), 04: NICKI ELUTUBA, 08 - VÄRAV, 0C - FTI EHITUS, 10 - LINNATÄNAV, 14 - HELGA KODU |
 | TEGELANE | `3300168C 0000` (vaikimisi päevast Arnold) | 00-01: ARNOLD, 02-03: GERALD, 04-05: VANAISA PHIL, 06-07: VANAEMA GERTIE, 08-09: GERALD BUSS, 0A-0B: HELGA (paaris numbrid hele heledus, paaritu numbrid tume heledus) |
 | Pane tagant tegelaseid | `3300168F 0003` | ? |
