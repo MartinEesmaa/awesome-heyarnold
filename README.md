@@ -6,18 +6,24 @@ Also this awesome list of repository is created & maintained by Martin Eesmaa si
 
 # Fan artists
 
-- [Martin Eesmaa](https://linktr.ee/martineesmaa) - an Estonian male artist since 2013, started to draw Hey Arnold fanarts since 2025 when shortaki week 2025 came out. I post on Tumblr, X (Twitter), Bluesky, Instagram, DeviantArt & TikTok and Reddit.
+- [Martin Eesmaa](https://linktr.ee/martineesmaa) - an Estonian male artist since 2013, started to draw Hey Arnold fanarts since when shortaki week came out in 2025. I post on Tumblr, X (Twitter), Bluesky, Instagram, DeviantArt, TikTok and Reddit.
 
 - Various USA & LATAM fan artists
 
-Artists from countries (including former artists):
+Active artists from countries in nowadays:
 
 ```text
 Estonia, United States of America, Mexico, United Kingdom, Costa Rica,
-Finland, Indonesia, Australia, Japan, Ukraine, Chile, Colombia,
-Argentina, Brazil, Russia, Hong Kong, Morocco, Canada, Uruguay, Spain,
-Switzerland, Norway, Sweden, Philippines, Kazakhstan, Germany, Peru 
-Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
+Indonesia, Australia, Japan, Chile, Colombia, Argentina, Brazil, Russia, 
+China, Canada, Uruguay, Switzerland, Philippines, Germany, Peru 
+Panama, Ecuador, Venezuela
+```
+
+Former artists from countries:
+
+```text
+Finland, Ukraine, Morocco, Spain, Norway, Sweden, Kazakhstan,
+Dominican Republic, Singapore, Malaysia, Romania
 ```
 
 See more lists of fan artists: [artists.md](artists.md)
