@@ -14,7 +14,7 @@ Artists from countries (including former artists):
 
 ```text
 Estonia, United States of America, Mexico, United Kingdom, Costa Rica,
-Finland, Indonesia, Australia, Japan, Ukraine, Chile, Mexico, Colombia,
+Finland, Indonesia, Australia, Japan, Ukraine, Chile, Colombia,
 Argentina, Brazil, Russia, Hong Kong, Morocco, Canada, Uruguay, Spain,
 Switzerland, Norway, Sweden, Philippines, Kazakhstan, Germany, Peru 
 Dominican Republic, Panama, Singapore, Malaysia, Romania, Ecuador, Venezuela
