@@ -26,7 +26,7 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 | 7 | Lullaby / Unenäos |
 | 8 | Creator's Choice / Looja valik |
 
-## Descriptions / Kirjeldused 2026
+## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
 
 ```text
 1. Jäätis / Ice Cream
