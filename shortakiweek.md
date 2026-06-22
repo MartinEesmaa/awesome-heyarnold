@@ -37,7 +37,7 @@ English: After they got only one ice cream cone, because the ice cream store are
 2. Let go / Lase minema
 
 Oh ei... Helga viskas kogemata tema medaljoni vee jugasse. "Ära muretse! Ma ostan sulle uue medaljoni", ütles Arnold ja Helga vastas "Oi, äitah nii palju! Sa oled kangelane, mu poiss!".
-English: Oh no... Helga dropped accidentally her locket to the water fall. Arnold said to her: "Let it go, I'll buy you new locket", Helga said "Oh, thank you very much! You're my hero, my boy!".
+English: Oh no... Helga dropped accidentally her locket to the water fall. Arnold said to her: "Don't worry, I'll buy you a new locket", Helga said "Oh, thank you very much! You're my hero, my boy!".
 
 3. Angel / Ingel
 
