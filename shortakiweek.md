@@ -32,35 +32,35 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 
 Total count: 23 (new 17 members)
 
-* 🎨 - art
-* 📄 - fiction
-* ℹ️ - sketch (meaningly work in progress or finished without color likely)
-* (no icon) / ? - coming soon (due 48 hours in each day prompt)
-* ❌ - skipped
-* (NEW) - new member of shortakiweek in 2026
+- 🎨 - art
+- 📄 - fiction
+- ℹ️ - sketch (meaningly work in progress or finished without color likely)
+- (no icon) / ? - coming soon (due 48 hours in each day prompt)
+- ❌ - absent / skipped
+- (NEW) - new member of shortakiweek in 2026
 
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date | River | Severed | Lullaby |
-| welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | ? | ? | ? | ? | ? |
-| freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | ? | ? | ? | ? | ? |
-| eden_fries | Pier / Ice Cream / Wound 🎨 | ? | ? | ? | ? | ? | ? |
-| mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
-| m0nyartz | Pier / Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
+| welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | ? | ? | ? | ? |
+| freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | ? | ? | ? | ? |
+| eden_fries | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | ? | ? | ? | ? |
+| m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ? | ? | ? | ? |
 | Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | ? | ? | ? | ? | ? |
-| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | ? | ? | ? | ? | ? |
+| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | gabbygase | Pier 🎨 | ? | ? | ? | ? | ? | ? |
 | helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | ? | ? | ? | ? | ? |
-| toofpaste-art (NEW) | Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
-| thedooms (NEW) | Pier 📄 | Let Go 📄 | ? | ? | ? | ? | ? |
-| PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| toofpaste-art (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | ? | ? | ? | ? |
+| PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | ? | ? | ? | ? |
 | GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ? | ? | ? | Mourning 🎨 | ? |
-| franpatchy (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | ? | ? | ? | ? | ? |
+| franpatchy (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | ? | ? | ? | ? |
 | friedeggy101 (NEW) | Wound 🎨 | ? | ? | ? | ? | ? | ? |
 | LittleMissNovella (NEW) | ❌ | Let Go 📄 | ? | ? | ? | ? | ? |
-| HelgasUnibrow (NEW) | Ice Cream 📄 | Wound 📄 | ? | ? | ? | ? | ? |
-| jeaoup (NEW) | Pier / Ice Cream / Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| HelgasUnibrow (NEW) | Ice Cream / Wound 📄 | ❌ | ? | ? | ? | ? | ? |
+| jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ? | ? | ? | ? | Severed 🎨 (Day 2) | ? |
 | IvyChan24 (NEW) | ❌ | Guilt / Let Go / Sanctuary 📄 | ? | ? | ? | ? | ? |
 | missingnotmissed (NEW) | ❌ | Let Go 🎨 | ? | ? | ? | ? | ? |
