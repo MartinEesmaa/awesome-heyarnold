@@ -78,8 +78,8 @@ English: Oh no... Helga dropped accidentally her locket to the water fall. Arnol
 
 3. Angel / Ingel
 
-Arnold ja Helga on ingelid taevas unenäost ja saavad lennada hästi.
-English: Arnold and Helga are angels in heaven and they can fly well.
+Arnold ja Helga sai ingli tiivad ja saavad lennatada hästi.
+English: Arnold and Helga got an angel wings and they can fly very well.
 
 Boonus lugu: Martin Eesmaa sai nüüd 21 aastaseks poiss sünnipäeva!
 Bonus story: Martin Eesmaa is now 21 years old birthday boy!
