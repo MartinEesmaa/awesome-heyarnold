@@ -30,7 +30,7 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 
 ## Community prompts
 
-Total count: 20 (new 13 members)
+Total count: 21 (new 14 members)
 
 * 🎨 - art
 * 📄 - fiction
@@ -46,7 +46,7 @@ Total count: 20 (new 13 members)
 | freelocket | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | ? | ? | ? | ? | ? |
 | eden_fries | Pier / Ice Cream / Wound 🎨 | ? | ? | ? | ? | ? | ? |
 | mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
-| m0nyartz | Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
+| m0nyartz | Pier / Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
 | Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | ? | ? | ? | ? | ? |
 | Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | ? | ? | ? | ? | ? |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | ? | ? | ? | ? | ? |
@@ -61,6 +61,7 @@ Total count: 20 (new 13 members)
 | LittleMissNovella (NEW) | ❌ | Let Go 📄 | ? | ? | ? | ? | ? |
 | HelgasUnibrow (NEW) | Ice Cream 📄 | Wound 📄 | ? | ? | ? | ? | ? |
 | jeaoup (NEW) | Pier / Ice Cream / Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ? | ? | ? | ? | Severed 🎨 (Day 2) | ? |
 
 ## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
 
