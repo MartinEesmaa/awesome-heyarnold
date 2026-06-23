@@ -41,7 +41,7 @@ Total count: 21 (new 15 members)
 
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel | Date | River | Severed | Lullaby |
+| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date | River | Severed | Lullaby |
 | welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | ? | ? | ? | ? | ? |
 | freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | ? | ? | ? | ? | ? |
 | eden_fries | Pier / Ice Cream / Wound 🎨 | ? | ? | ? | ? | ? | ? |
