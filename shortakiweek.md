@@ -2,6 +2,8 @@
 
 ## 2026
 
+From 21 June 2026 to 29 June 2026
+
 ```text
 - Day 1 - Pier / Ice Cream / Wound 
 - Day 2 - Guilt / Let Go / Sanctuary
@@ -25,6 +27,40 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 | 6 | Severed / Katkestatud |
 | 7 | Lullaby / Unenäos |
 | 8 | Creator's Choice / Looja valik |
+
+## Community prompts
+
+Total count: 20 (new 13 members)
+
+* 🎨 - art
+* 📄 - fiction
+* ℹ️ - sketch (meaningly work in progress or finished without color likely)
+* (no icon) / ? - coming soon (due 48 hours in each day prompt)
+* ❌ - skipped
+* (NEW) - new member of shortakiweek in 2026
+
+| 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel | Date | River | Severed | Lullaby |
+| welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| freelocket | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | ? | ? | ? | ? | ? |
+| eden_fries | Pier / Ice Cream / Wound 🎨 | ? | ? | ? | ? | ? | ? |
+| mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| m0nyartz | Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
+| Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | ? | ? | ? | ? | ? |
+| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | ? | ? | ? | ? | ? |
+| quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | ? | ? | ? | ? | ? |
+| gabbygase | Pier 🎨 | ? | ? | ? | ? | ? | ? |
+| helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | ? | ? | ? | ? | ? |
+| toofpaste-art (NEW) | Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
+| thedooms (NEW) | Pier 📄 | Let Go 📄 | ? | ? | ? | ? | ? |
+| PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| GalaxiBabe (NEW) | Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
+| franpatchy (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | ? | ? | ? | ? | ? |
+| friedeggy101 (NEW) | Wound 🎨 | ? | ? | ? | ? | ? | ? |
+| LittleMissNovella (NEW) | ❌ | Let Go 📄 | ? | ? | ? | ? | ? |
+| HelgasUnibrow (NEW) | Ice Cream 📄 | Wound 📄 | ? | ? | ? | ? | ? |
+| jeaoup (NEW) | Pier / Ice Cream / Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | ? | ? | ? | ? | ? |
 
 ## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
 
