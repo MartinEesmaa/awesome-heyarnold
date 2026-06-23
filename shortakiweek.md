@@ -81,6 +81,9 @@ English: Oh no... Helga dropped accidentally her locket to the water fall. Arnol
 Arnold ja Helga on ingelid taevas unenäost ja saavad lennada hästi.
 English: Arnold and Helga are angels in heaven and they can fly well.
 
+Boonus lugu: Martin Eesmaa sai nüüd 21 aastaseks poiss sünnipäeva!
+Bonus story: Martin Eesmaa is now 21 years old birthday boy!
+
 4. Date / Kohtumine
 
 Arnold ja Helga läksid uue restoranisse sööma, nemad proovisid süda kuju toidused süüa ja nemad armastasid teisest.
