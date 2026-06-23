@@ -81,8 +81,8 @@ English: Oh no... Helga dropped accidentally her locket to the water fall. Arnol
 Arnold ja Helga sai ingli tiivad ja saavad lennatada hästi.
 English: Arnold and Helga got an angel wings and they can fly very well.
 
-Boonus lugu: Martin Eesmaa sai nüüd 21 aastaseks poiss sünnipäeva!
-Bonus story: Martin Eesmaa is now 21 years old birthday boy!
+Lõbus fakt: Martin Eesmaa sai nüüd 21 aastaseks poiss sünnipäeva! 🥳
+Fun fact: Martin Eesmaa is now 21 years old birthday boy!
 
 4. Date / Kohtumine
 
