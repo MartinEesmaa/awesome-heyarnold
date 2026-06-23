@@ -30,7 +30,7 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 
 ## Community prompts
 
-Total count: 21 (new 14 members)
+Total count: 21 (new 15 members)
 
 * 🎨 - art
 * 📄 - fiction
@@ -43,7 +43,7 @@ Total count: 21 (new 14 members)
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel | Date | River | Severed | Lullaby |
 | welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | ? | ? | ? | ? | ? |
-| freelocket | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | ? | ? | ? | ? | ? |
+| freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | ? | ? | ? | ? | ? |
 | eden_fries | Pier / Ice Cream / Wound 🎨 | ? | ? | ? | ? | ? | ? |
 | mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
 | m0nyartz | Pier / Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
@@ -55,7 +55,7 @@ Total count: 21 (new 14 members)
 | toofpaste-art (NEW) | Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
 | thedooms (NEW) | Pier 📄 | Let Go 📄 | ? | ? | ? | ? | ? |
 | PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
-| GalaxiBabe (NEW) | Ice Cream 🎨 | ? | ? | ? | ? | ? | ? |
+| GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ? | ? | ? | Mourning 🎨 | ? |
 | franpatchy (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | ? | ? | ? | ? | ? |
 | friedeggy101 (NEW) | Wound 🎨 | ? | ? | ? | ? | ? | ? |
 | LittleMissNovella (NEW) | ❌ | Let Go 📄 | ? | ? | ? | ? | ? |
