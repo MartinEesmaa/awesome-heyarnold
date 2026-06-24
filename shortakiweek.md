@@ -51,7 +51,7 @@ Total count: 23 (new 17 members)
 | Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | gabbygase | Pier 🎨 | ❌ | ❌ | ? | ? | ? | ? |
-| helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | ❌ | Date 🎨 | ? | ? | ? |
+| helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | ? | ? | ? |
 | toofpaste-art (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
 | thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | ? | ? | ? |
 | PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | ? | ? | ? | ? |
