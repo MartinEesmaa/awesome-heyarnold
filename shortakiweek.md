@@ -89,7 +89,7 @@ Fun fact: Martin Eesmaa is now 21 years old birthday boy!
 4. Date / Kohtumine
 
 Arnold ja Helga läksid uue restoranisse sööma, nemad proovisid süüa toitu süda kuju ja nemad armastasid teine teisele.
-English: Arnold and Helga went to a new restaurant, they wanna try to eat heart shaped foods and they loved it each other.
+English: Arnold and Helga went to a new restaurant, they wanna try to eat heart shaped foods and they loved each other.
 
 5. River / Järv
 
