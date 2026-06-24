@@ -88,13 +88,13 @@ Fun fact: Martin Eesmaa is now 21 years old birthday boy!
 
 4. Date / Kohtumine
 
-Arnold ja Helga läksid uue restoranisse sööma, nemad proovisid süda kuju toidused süüa ja nemad armastasid teisest.
-English: Arnold and Helga went to a new restaurant, they wanna try out to eat heart shaped foods and they loved it each other.
+Arnold ja Helga läksid uue restoranisse sööma, nemad proovisid süüa toitu süda kuju ja nemad armastasid teisest.
+English: Arnold and Helga went to a new restaurant, they wanna try to eat heart shaped foods and they loved it each other.
 
 5. River / Järv
 
-Nemad on paadis peal koos turvalise vestiga järves, püüavad kalad järvest.
-English: They're in a boat with safety vest on in river, catching fishs from the river.
+Nemad on paadis peal koos turvalise vestidega, püüavad kalad järves.
+English: They're in a boat with safety vests, catching fishs in the river.
 
 6. Pooleks / Severed
 
