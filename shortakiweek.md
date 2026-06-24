@@ -47,7 +47,7 @@ Total count: 23 (new 17 members)
 | eden_fries | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
 | mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ? | ? | ? | ? |
-| Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | ? | ? | ? | ? | ? |
+| Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | ? | ? | ? | ? |
 | Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
 | gabbygase | Pier 🎨 | ? | ? | ? | ? | ? | ? |
