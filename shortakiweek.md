@@ -7,7 +7,7 @@ From 21 June 2026 to 29 June 2026
 ```text
 - Day 1 - Pier / Ice Cream / Wound 
 - Day 2 - Guilt / Let Go / Sanctuary
-- Day 3 - Angel / Friendly Fire / Slow Motion 
+- Day 3 - Angel / Friendly Fire / Slow Motion
 - Day 4 - Crystalline / Date / Caution
 - Day 5 - River / Symphony / Reap - Sow
 - Day 6 - Severed / Mourning / Discard
@@ -42,28 +42,28 @@ Total count: 23 (new 17 members)
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River | Severed | Lullaby |
-| welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | ? | ? | ? | ? |
+| welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | ? | ? | ? |
 | freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | ? | ? | ? |
 | eden_fries | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
-| mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | ? | ? | ? | ? |
+| mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | ? | ? | ? |
 | m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ? | ? | ? | ? |
-| Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | ? | ? | ? | ? |
-| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
-| quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | ? | ? | ? | ? |
+| Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | ? | ? | ? |
+| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | ? | ? | ? |
+| quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | ? | ? | ? |
 | gabbygase | Pier 🎨 | ❌ | ❌ | ? | ? | ? | ? |
 | helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | ? | ? | ? |
-| toofpaste-art (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
+| toofpaste-art (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | ? | ? | ? | ? |
 | thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | ? | ? | ? |
 | PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | ? | ? | ? | ? |
-| GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ? | ? | ? | Mourning 🎨 | ? |
+| GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ? | Mourning 🎨 | ? |
 | franpatchy (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel 📄 | ? | ? | ? | ? |
 | friedeggy101 (NEW) | Wound 🎨 | ❌ | ? | ? | ? | ? | ? |
 | LittleMissNovella (NEW) | ❌ | Let Go 📄 | ? | ? | ? | ? | ? |
-| HelgasUnibrow (NEW) | Ice Cream / Wound 📄 | ❌ | ? | ? | ? | ? | ? |
-| jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | ? | ? | ? | ? |
+| HelgasUnibrow (NEW) | Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? |
+| jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | ? | ? | ? |
 | heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ? | ? | Severed 🎨 (Day 2) | ? |
-| IvyChan24 (NEW) | ❌ | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | ? | ? | ? | ? |
-| missingnotmissed (NEW) | ❌ | Let Go 🎨 | ? | ? | ? | ? | ? |
+| IvyChan24 (NEW) | ❌ | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? |
+| missingnotmissed (NEW) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ? | ? | ? |
 
 ## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
 
@@ -94,7 +94,7 @@ English: Arnold and Helga went to a new restaurant, they wanna try to eat heart 
 5. River / Järv
 
 Nemad on paadis peal koos turvalise vestidega, püüavad kalad järves.
-English: They're in a boat with safety vests, catching fishs in the river.
+English: They're in a boat with safety vests, catching fishes in the river.
 
 6. Pooleks / Severed
 
