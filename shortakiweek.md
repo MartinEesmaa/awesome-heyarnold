@@ -93,8 +93,8 @@ English: Arnold and Helga went to a new restaurant, they wanna try to eat heart 
 
 5. River / Järv
 
-Nemad on paadis peal koos turvalise vestidega, püüavad kalad järves.
-English: They're in a boat with safety vests, catching fishes in the river.
+Nemad on paadis peal koos päästevestid, puhkavad armastus.
+English: They're in a boat with life jackets, rest love.
 
 6. Pooleks / Severed
 
