@@ -41,7 +41,7 @@ Total count: 23 (new 17 members)
 
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River | Severed | Lullaby |
+| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed | Lullaby |
 | welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | ? | ? | ? |
 | freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | ? | ? | ? |
 | eden_fries | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ? | ? | ? | ? | ? |
@@ -51,18 +51,18 @@ Total count: 23 (new 17 members)
 | Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | ? | ? | ? |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | ? | ? | ? |
 | gabbygase | Pier 🎨 | ❌ | ❌ | ? | ? | ? | ? |
-| helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | ? | ? | ? |
+| helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | ? | ? |
 | toofpaste-art (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | ? | ? | ? | ? |
-| thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | ? | ? | ? |
-| PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | ? | ? | ? | ? |
+| thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | ? | ? |
+| PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | ? | ? | ? |
 | GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ? | Mourning 🎨 | ? |
 | franpatchy (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel 📄 | ? | ? | ? | ? |
-| friedeggy101 (NEW) | Wound 🎨 | ❌ | ? | ? | ? | ? | ? |
-| LittleMissNovella (NEW) | ❌ | Let Go 📄 | ? | ? | ? | ? | ? |
+| friedeggy101 (NEW) | Wound 🎨 | ❌ | ❌ | ? | ? | ? | ? |
+| LittleMissNovella (NEW) | ❌ | Let Go 📄 | ❌ | ? | ? | ? | ? |
 | HelgasUnibrow (NEW) | Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? |
 | jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | ? | ? | ? |
-| heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ? | ? | Severed 🎨 (Day 2) | ? |
-| IvyChan24 (NEW) | ❌ | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? |
+| heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ❌ | ? | Severed 🎨 (Day 2) | ? |
+| IvyChan24 (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? |
 | missingnotmissed (NEW) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ? | ? | ? |
 
 ## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
