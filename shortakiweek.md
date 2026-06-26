@@ -98,8 +98,8 @@ English: Arnold and Helga were in a boat with life jackets, rest love.
 
 6. Katkestatud / Severed
 
-Arnold ja Helga on mõlemas eraldi parvlaevas tuleb Eestist, aga midagi läks valesti. Poiss läheb kogemata oli Soomesse ja tüdruk läheb Rootsisse valesti. Nemad pidivad koos olema teises üks paadis, näiteks kuhu minna seiklusse...
-English: Arnold and Helga were in seperated in both ferry ships coming from Estonia, but something went wrong. A boy made accidentally going to was Finland and girl was going to Sweden unexpectedly. They have to be together in one boat, like where to go to the adventure...
+Arnold ja Helga on mõlemas eraldi parvlaevas tuleb Eestist, nemad läksid vale laevasse Soome ja Rootsi.
+English: Arnold and Helga were in seperated in both ferry ships coming from Estonia, but they went to wrong ships Finland and Sweden.
 
 7. Lullaby / Unenäos
 
