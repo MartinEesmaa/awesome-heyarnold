@@ -98,8 +98,8 @@ English: Arnold and Helga were in a boat with life jackets, rest love.
 
 6. Pooleks / Severed
 
-Nemad seadme katkes ühendust ära, teavad et internet kadus ära ja ei saa räägida tunnidega väljas kauge eemal kuna nemad peavad ootama interneti saada tagasi.
-English: Their devices were disconnected, realizing internet is temporarily down for long distance until they have to wait to get internet back.
+Arnold ja Helga on mõlemas eraldi paadis, aga midagi läks valesti. Poiss läheb kogemata oli Soomesse ja tüdruk läheb Rootsisse valesti. Nemad pidivad koos olema teises üks paadis, näiteks kuhu minna seiklusse...
+English: Arnold and Helga were in seperated in both ships, but something went wrong. A boy went accidentally was going to Finland and girl was going to Sweden unexpectedly. They have to be together in other boat, like where to go Adventure...
 
 7. Lullaby / Unenäos
 
