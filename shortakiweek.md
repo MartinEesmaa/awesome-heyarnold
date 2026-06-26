@@ -96,7 +96,7 @@ English: Arnold and Helga went to a new restaurant, they wanna try to eat heart 
 Arnold ja Helga on paadis peal koos päästevestid, puhkavad armastus.
 English: Arnold and Helga were in a boat with life jackets, rest love.
 
-6. Pooleks / Severed
+6. Katkestatud / Severed
 
 Arnold ja Helga on mõlemas eraldi paadis, aga midagi läks valesti. Poiss läheb kogemata oli Soomesse ja tüdruk läheb Rootsisse valesti. Nemad pidivad koos olema teises üks paadis, näiteks kuhu minna seiklusse...
 English: Arnold and Helga were in seperated in both ships, but something went wrong. A boy went accidentally was going to Finland and girl was going to Sweden unexpectedly. They have to be together in other boat, like where to go Adventure...
