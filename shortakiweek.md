@@ -99,7 +99,7 @@ English: Arnold and Helga were in a boat with life jackets, rest love.
 6. Lõigatud / Severed
 
 Arnold ja Helga on mõlemas eraldi parvlaevas tuleb Eestist, nemad läksid vale laevasse Soome ja Rootsi.
-English: Arnold and Helga were in seperated in both ferry ships coming from Estonia, but they went to wrong ships Finland and Sweden.
+English: Arnold and Helga were in separated in both ferry ships coming from Estonia, but they went to wrong ships Finland and Sweden.
 
 7. Lullaby / Unenäos
 
