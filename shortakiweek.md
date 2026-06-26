@@ -24,7 +24,7 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 | 3 | Angel / Ingel |
 | 4 | Date / Kohtumine |
 | 5 | River / Järv |
-| 6 | Severed / Katkestatud |
+| 6 | Severed / Lõigatud |
 | 7 | Lullaby / Unenäos |
 | 8 | Creator's Choice / Looja valik |
 
@@ -96,7 +96,7 @@ English: Arnold and Helga went to a new restaurant, they wanna try to eat heart 
 Arnold ja Helga on paadis peal koos päästevestid, puhkavad armastus.
 English: Arnold and Helga were in a boat with life jackets, rest love.
 
-6. Katkestatud / Severed
+6. Lõigatud / Severed
 
 Arnold ja Helga on mõlemas eraldi parvlaevas tuleb Eestist, nemad läksid vale laevasse Soome ja Rootsi.
 English: Arnold and Helga were in seperated in both ferry ships coming from Estonia, but they went to wrong ships Finland and Sweden.
