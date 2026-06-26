@@ -48,7 +48,7 @@ Total count: 23 (new 17 members)
 | mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | ? | ? |
 | m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ? | ? | ? | ? |
 | Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | ? | ? | ? |
-| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | ? | ? | ? |
+| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | Symphony 🎨 | ? | ? |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | River 🎨 | ? | ? |
 | gabbygase | Pier 🎨 | ❌ | ❌ | ? | ? | ? | ? |
 | helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | ? | ? |
@@ -60,7 +60,7 @@ Total count: 23 (new 17 members)
 | friedeggy101 (NEW) | Wound 🎨 | ❌ | ❌ | ? | ? | ? | ? |
 | LittleMissNovella (NEW) | ❌ | Let Go 📄 | ❌ | ? | ? | ? | ? |
 | HelgasUnibrow (NEW) | Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? |
-| jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | ? | ? | ? |
+| jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | ? | ? |
 | heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ❌ | ? | Severed 🎨 (Day 2) | ? |
 | IvyChan24 (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? |
 | missingnotmissed (NEW) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ? | ? | ? |
