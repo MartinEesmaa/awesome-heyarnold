@@ -41,28 +41,28 @@ Total count: 23 (new 17 members)
 
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 (Creator's Choice) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed | Lullaby | Fireworks |
-| welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | Symphony 🎨 | ? | ? | ? |
-| freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | River 🎨 | ? | ? | ? |
-| eden_fries | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ❌ | ? | ? | ? | ? | ? |
-| mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | ? | ? | ? |
-| m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ? | ? | ? | ? | ? |
-| Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | ? | ? | ? | ? |
+| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed 🎨 | Lullaby | Fireworks |
+| welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | Symphony 🎨 | Mourning 🎨 | ? | ? |
+| freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | River 🎨 | Severed / Mourning / Discard 🎨 | ? | ? |
+| eden_fries | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ❌ | ❌ | ❌ | ? | ? | ? |
+| mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | Severed 🎨 | ? | ? |
+| m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ❌ | ? | ? | ? | ? |
+| Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | Symphony 🎨 | ? | ? | ? |
 | Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | Symphony 🎨 | ? | ? | ? |
-| quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | River 🎨 | ? | ? | ? |
-| gabbygase | Pier 🎨 | ❌ | ❌ | ? | ? | ? | ? | ? |
-| helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | ? | ? | ? |
+| quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | River 🎨 | Severed 🎨 | ? | ? |
+| gabbygase | Pier 🎨 | ❌ | ❌ | ❌ | ❌ | ? | ? | ? |
+| helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Discard 🎨 | ? | ? |
 | toofpaste-art (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | ❌ | Symphony 🎨 | ? | ? | ? |
-| thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | ? | ? | ? |
+| thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | Mourning 📄 | ? | ? |
 | PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | Symphony 🎨 | ? | ? | ? |
-| GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ? | Mourning 🎨 | ? | ? |
+| GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ❌ | Mourning 🎨 | ? | ? |
 | franpatchy (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel 📄 | Crystalline / Caution 📄 | ? | ? | ? | ? |
-| friedeggy101 (NEW) | Wound 🎨 | ❌ | ❌ | ? | ? | ? | ? | ? |
-| LittleMissNovella (NEW) | ❌ | Let Go 📄 | ❌ | ? | ? | ? | ? | ? |
+| friedeggy101 (NEW) | Wound 🎨 | ❌ | ❌ | ❌ | ❌ | ? | ? | ? |
+| LittleMissNovella (NEW) | ❌ | Let Go 📄 | ❌ | ❌ | ❌ | ? | ? | ? |
 | HelgasUnibrow (NEW) | Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? | ? |
 | jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | ? | ? | ? |
-| heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ❌ | ? | Severed 🎨 (Day 2) | ? | ? |
-| IvyChan24 (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? | ? |
+| heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ❌ | ❌ | Severed 🎨 (Day 2) | ? | ? |
+| IvyChan24 (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | River / Symphony / Reap - Sow 📄 | Severed / Mourning / Discard 📄 | ? | ? |
 | missingnotmissed (NEW) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ? | ? | ? | ? |
 
 ## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
