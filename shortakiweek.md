@@ -25,7 +25,7 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 | 4 | Date / Kohtumine |
 | 5 | River / Järv |
 | 6 | Severed / Lõigatud |
-| 7 | Lullaby / Unenäos |
+| 7 | Lullaby / Unelaul |
 | 8 | Creator's Choice / Looja valik |
 
 ## Community prompts
@@ -102,10 +102,10 @@ English: Arnold and Helga were in a boat with life jackets, rest love.
 Arnold ja Helga on mõlemas eraldi parvlaevas tuleb Eestist, nemad läksid vale laevasse Soome ja Rootsi.
 English: Arnold and Helga were in separated in both ferry ships coming from Estonia, but they went to wrong ships Finland and Sweden.
 
-7. Lullaby / Unenäos
+7. Lullaby / Unelaul
 
-Arnold ja Helga magavad diivanis ja nendel unenäod ühendavad üks teise peale.
-English: Arnold and Helga were sleeping in a sofa and their dreams were connected to each other.
+Arnold ja Helga magavad diivanis ja laulavad koos silmad kinni unelaust unenäoga.
+English: Arnold and Helga were sleeping on the sofa and they are singing with closed eyes for lullaby with dream.
 
 8. Fireworks / Ilutulestik
 
