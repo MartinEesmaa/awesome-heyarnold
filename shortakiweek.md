@@ -1,5 +1,11 @@
 # Shortaki weeks
 
+Markdown document created by Martin Eesmaa.
+
+License: CC-BY-SA-NAI.
+
+This document is licensed under by CC-BY-SA-NAI meaning must give credit attribution, sharealike with same license and no AI permit use. Informational, educational, research, archival or other purposes are recommendations.
+
 ## 2026
 
 From 21 June 2026 to 28 June 2026
