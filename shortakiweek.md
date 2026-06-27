@@ -30,7 +30,7 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 
 ## Community prompts
 
-Total count: 23 (new 17 members)
+Total count: 24 (new 18 members)
 
 - 🎨 - art
 - 📄 - fiction
@@ -53,6 +53,7 @@ Total count: 23 (new 17 members)
 | gabbygase | Pier 🎨 | ❌ | ❌ | ❌ | ❌ | ? | ? | ? |
 | helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Discard 🎨 | ? | ? |
 | toofpaste-art (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | ❌ | Symphony 🎨 | ? | ? | ? |
+| liebergashley (NEW) | Pier / Ice Cream / Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel / Friendly Fire / Slow Motion 🎨 | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | Severed / Mourning / Discard 🎨 | ? | ? |
 | thedooms (NEW) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | Mourning 📄 | ? | ? |
 | PinkyDoggy83 (NEW) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | Symphony 🎨 | ? | ? | ? |
 | GalaxiBabe (NEW) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ❌ | Mourning 🎨 | ? | ? |
@@ -60,7 +61,7 @@ Total count: 23 (new 17 members)
 | friedeggy101 (NEW) | Wound 🎨 | ❌ | ❌ | ❌ | ❌ | ? | ? | ? |
 | LittleMissNovella (NEW) | ❌ | Let Go 📄 | ❌ | ❌ | ❌ | ? | ? | ? |
 | HelgasUnibrow (NEW) | Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | ? | ? | ? | ? |
-| jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | ? | ? | ? |
+| jeaoup (NEW) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | Severed 🎨 | ? | ? |
 | heyajisai (NEW) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ❌ | ❌ | Severed 🎨 (Day 2) | ? | ? |
 | IvyChan24 (NEW) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | River / Symphony / Reap - Sow 📄 | Severed / Mourning / Discard 📄 | ? | ? |
 | missingnotmissed (NEW) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ? | ? | ? | ? |
