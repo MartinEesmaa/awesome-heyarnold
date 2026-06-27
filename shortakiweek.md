@@ -2,7 +2,7 @@
 
 ## 2026
 
-From 21 June 2026 to 29 June 2026
+From 21 June 2026 to 28 June 2026
 
 ```text
 - Day 1 - Pier / Ice Cream / Wound 
