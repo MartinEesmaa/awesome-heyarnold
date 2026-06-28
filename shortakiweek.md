@@ -48,7 +48,7 @@ Total count: 26 (new 19 members)
 
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 (Creator's Choice) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Fireworks |
+| Martin Eesmaa | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Firework |
 | welovebirdmom | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | Symphony 🎨 | Mourning 🎨 | Lullaby 🎨 | ? |
 | freelocket (NEW) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | River 🎨 | Severed / Mourning / Discard 🎨 | ? | ? |
 | eden_fries | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ❌ | ❌ | ❌ | ❌ | ? | ? |
@@ -116,10 +116,10 @@ English: Arnold and Helga were in separated in both ferry ships coming from Esto
 Arnold ja Helga magavad diivanis ja laulavad koos silmad kinni unelaust unenäoga.
 English: Arnold and Helga were sleeping on the sofa and they are singing with closed eyes for lullaby with dream.
 
-8. Fireworks / Ilutulestik
+8. Firework / Ilutulestik
 
-Lõpuks Arnold ja Helga vaatavad ilutulestikud õues armasti.
-English: Finally Arnold and Helga were watching fireworls at ourside happily.
+Lõpuks Arnold ja Helga vaatavad ilutulestikud väljas rõõmsasti ja armasti.
+English: Finally Arnold and Helga were watching fireworks at outside for happily and lovely.
 ```
 
 Coming soon...
