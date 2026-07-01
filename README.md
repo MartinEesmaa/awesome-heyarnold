@@ -39,6 +39,7 @@ If you're looking forward to join communities, you're feel free welcome to join 
 | Hey Arnold! OP The Patakis (Discord server) | Betaruga | 28.03.2023 01:09:22.542 (UTC) | 176+ members | <https://discord.gg/UcFqCkgJ8P> (please see the rules: [Rules](discordrules.md)) | Current 18+ (SFW), originally was 13+ gap |
 | Nickelodeon Hey Arnold! Fan club | Piers Ashley (Administrator) | 09.09.2018 | Around 3.1k | <https://facebook.com/groups/325037384739213> | Unreviewed |
 | Shortaki Love 🧢🎀 | hellengomes | 08.05.2025 | 35+ | <https://tumblr.com/communities/shortaki-love/> | Unreviewed |
+| heyarnoldfans | MarcosBnPinto | 23.12.2009 | 1.7K | <https://deviantart.com/heyarnoldfans/> | Unknown |
 
 # Fan games
 
