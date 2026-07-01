@@ -58,7 +58,7 @@ Members completed all prompts: 12 (new 9 members)
 | m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | Symphony 🎨 | Severed / Mourning ℹ️ | Fragile / Lullaby / Stay ℹ️ | Ponyo crossover 🎨 |
 | thepinkestbow | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Animation meme 📺 |
-| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | Symphony 🎨 | Severed 📄 | ❌ | ❌ |
+| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | Symphony 🎨 | Severed 📄 | Stay 🎨 | ❌ |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Beach Day (Playa) 🎨 |
 | gabbygase | Pier 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Discard 🎨 | Lullaby 🎨 | Princess 🎨 |
