@@ -34,11 +34,28 @@ My prompts (Martin Eesmaa's prompts) of 2026:
 | 7 | Lullaby / Unelaul |
 | 8 | Creator's Choice (Firework) / Looja valik (Ilutulestik) |
 
+## Social medias
+
+Almost all artists of shortakiweek 2026 uses Tumblr, some Instagram exclusive artists like mari_art905, gabbygase, helgaslizard, liebergashley, jeaoup and lizabom14.
+
+```text
+Instagram: martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen and plus exclusive artists.
+DeviantArt: PinMartin892, freelocket, senspring, quietpataki
+Reddit: MartinEesmaa, GhostieThatHauntsMe
+Twitter: martin123459, sillehgews, ShortLilPenny, heyajisai
+Bluesky: martineesmaa.org, freelocket.bsky.social, monyartz.bsky.social, shortlilpen.bsky.social
+TikTok: MartinEesmaa, quietpataki, mi_infancia_14
+Threads: martinhero12, ale.man.art
+ArchiveOfOurOwn AO3 (writers): freelocket, WysteriaFox, thedooms, franpatchy, HelgasUnibrow, LittleMissNovella, IvyChan24, lovelytomeetyou
+```
+
 ## Community prompts
 
 Total count: 29 (new 21 members)
 
 Members completed all prompts: 12 (new 9 members)
+
+The most picked art/fiction of prompts from Day 1 to Day 7 in 2026 are: Ice Cream, Let Go, Angel, Caution, Symphony, Severed and Lullaby.
 
 - 🎨 - art
 - 📄 - fiction
