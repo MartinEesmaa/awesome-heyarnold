@@ -87,7 +87,7 @@ If you're looking forward to join communities, you're feel free welcome to join 
 
 - [Mario Kart 7 (Wii)](https://gamebanana.com/mods/631779) - Gerald Johanssen character mod released by Mtgames in November 2025.
 
-- [Mario Kart 8 Deluxe (Wii U)](https://gamebanana.com/mods/406913) - Helga Pataki character over replacement Peach character. Released in October 2022 by JasonAwes.
+- [Mario Kart 8 Deluxe (Nintendo Switch)](https://gamebanana.com/mods/406913) - Helga Pataki character over replacement Peach character. Released in October 2022 by JasonAwes.
 
 - [Minecraft Character Skins](https://www.planetminecraft.com/skins/?keywords=nickelodeon+%22Hey+Arnold%22) - Bunch of Hey Arnold! Minecraft character skins.
 
