@@ -83,7 +83,7 @@ If you're looking forward to join communities, you're feel free welcome to join 
 
   - [Arnold Shortman & Gerald Johanssen](https://gamebanana.com/mods/652123) - Arnold Shortman and Gerald Shortman character packs of LIJ1 created and released by Martin Eesmaa in February 2026. Available on Gamebanana and [GitHub via source project](https://github.com/MartinEesmaa/lij1-mods/tree/main/hasamples).
 
-- [Super Smash Bros. Ultimate (Wii U)](https://gamebanana.com/mods/571318) - Arnold Shortman character of Nintendo SSBU Wii U video game, released in January 2025 by wombokombo38 (model importer, UI)
+- [Super Smash Bros. Ultimate (Nintendo Switch)](https://gamebanana.com/mods/571318) - Arnold Shortman character of Nintendo Switch of SSBU video game, released in January 2025 by wombokombo38 (model importer, UI)
 
 - [Mario Kart 7 (Wii)](https://gamebanana.com/mods/631779) - Gerald Johanssen character mod released by Mtgames in November 2025.
 
