@@ -41,11 +41,12 @@ Almost all artists of shortakiweek 2026 uses Tumblr, some Instagram exclusive ar
 ```text
 Instagram: martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen and plus exclusive artists.
 DeviantArt: PinMartin892, freelocket, senspring, quietpataki
-Reddit: MartinEesmaa, GhostieThatHauntsMe
-Twitter: martin123459, sillehgews, ShortLilPenny, heyajisai
+Reddit: MartinEesmaa, GhostieThatHauntsMe, The_Pinkest_Bow
+Twitter: martin123459, sillehgews, ShortLilPenny, heyajisai, ThePinkestBow
 Bluesky: martineesmaa.org, freelocket.bsky.social, monyartz.bsky.social, shortlilpen.bsky.social
 TikTok: MartinEesmaa, quietpataki, mi_infancia_14
 Threads: martinhero12, ale.man.art
+YouTube: Martin Eesmaa, The Pinkest Bow
 ArchiveOfOurOwn AO3 (writers): freelocket, WysteriaFox, thedooms, franpatchy, HelgasUnibrow, LittleMissNovella, IvyChan24, lovelytomeetyou
 ```
 
@@ -53,17 +54,17 @@ ArchiveOfOurOwn AO3 (writers): freelocket, WysteriaFox, thedooms, franpatchy, He
 
 Total count: 29 (new 21 members)
 
-Members completed all prompts: 12 (new 9 members)
+Members completed all prompts: 13 (new 10 members)
 
-The most picked art/fiction of prompts from Day 1 to Day 7 in 2026 are: Ice Cream, Let Go, Angel, Caution, Symphony, Severed and Lullaby.
+The most art/fiction of chosen prompts from Day 1 to Day 7 in 2026 are: Ice Cream, Let Go, Angel, Caution, Symphony, Severed and Lullaby.
 
-- 🎨 - art
-- 📄 - fiction
-- 📺 - animation/AMV/video
-- ℹ️ - sketch (meaningly work in progress or finished without color likely)
-- (no icon) / ? - coming soon (due 48 hours in each day prompt)
-- ❌ - absent / skipped
-- NEW - new member of shortakiweek in 2026
+- 🎨:  art
+- 📄: fiction
+- 📺: animation/AMV/video
+- ℹ️: sketch (meaningly work in progress or finished without color likely)
+- (no icon) / ?: coming soon (due 48 hours in each day prompt)
+- ❌: absent / skipped
+- NEW: new member of shortakiweek in 2026
 
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 (Creator's Choice) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -74,8 +75,8 @@ The most picked art/fiction of prompts from Day 1 to Day 7 in 2026 are: Ice Crea
 | mari_art905 (NEW) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | Severed 🎨 | Stay 🎨 | Devotion / Kiss 🎨 |
 | m0nyartz | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Alemanriq | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | Symphony 🎨 | Severed / Mourning ℹ️ | Fragile / Lullaby / Stay ℹ️ | Ponyo crossover 🎨 |
-| thepinkestbow | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Animation meme 📺 |
-| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | Symphony 🎨 | Severed 📄 | Stay 🎨 | ❌ |
+| thepinkestbow | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Animation meme 📺 (Grizzly no Osowareta - Shortaki edition) |
+| Wysteria Fox (NEW) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | Symphony 🎨 | Severed 📄 | Stay 🎨 | Sudden (formerly Unity) 🎨 |
 | quietpataki (NEW) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Beach Day (Playa) 🎨 |
 | gabbygase | Pier 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | helgaslizard (NEW) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Discard 🎨 | Lullaby 🎨 | Princess 🎨 |
@@ -143,7 +144,5 @@ English: Arnold and Helga were sleeping on the sofa and they are singing with cl
 Lõpuks Arnold ja Helga vaatavad ilutulestikud väljas rõõmsasti ja armasti.
 English: Finally Arnold and Helga were watching fireworks at outside for happily and lovely.
 ```
-
-Coming soon...
 
 - Martin Eesmaa
