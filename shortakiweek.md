@@ -2,7 +2,7 @@
 
 Original founders of shortakiweek on Tumblr, Twitter and Instagram are: reinamycloud, arnolds-love & farkledagain.
 
-Since 2026 [Bluesky](http://shortakiweek.bsky.social/) (shortakiweek.bsky.social) and [DeviantArt](https://www.deviantart.com/shortakiweek) maintainer (family-friendly version): Martin Eesmaa
+Since 2026 [Bluesky](http://shortakiweek.bsky.social/) (shortakiweek.bsky.social) and [DeviantArt](https://www.deviantart.com/shortakiweek) are ***unofficial*** accounts (not connected to Tumblr, Instagram and Twitter) & maintained (family-friendly version) by: Martin Eesmaa
 
 Markdown document created by Martin Eesmaa.
 
