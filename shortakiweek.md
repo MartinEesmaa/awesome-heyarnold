@@ -31,19 +31,19 @@ Eesti keel versioon: <https://pastebin.com/QnPL2jg4>
 
 ## Social medias
 
-Almost all artists of shortakiweek 2026 uses Tumblr, some Instagram exclusive artists like mari_art905, gabbygase, helgaslizard, liebergashley, jeaoup and lizabom14.
+Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), but some Instagram exclusive artists like mari_art905, gabbygase, helgaslizard, liebergashley, jeaoup and lizabom14.
 
-```text
-Instagram: martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen and plus exclusive artists.
-DeviantArt: PinMartin892, freelocket, senspring, quietpataki
-Reddit: MartinEesmaa, GhostieThatHauntsMe, The_Pinkest_Bow
-Twitter: martin123459, sillehgews, ShortLilPenny, heyajisai, ThePinkestBow
-Bluesky: martineesmaa.org, freelocket.bsky.social, monyartz.bsky.social, shortlilpen.bsky.social
-TikTok: MartinEesmaa, quietpataki, mi_infancia_14
-Threads: martinhero12, ale.man.art
-YouTube: Martin Eesmaa, The Pinkest Bow
-ArchiveOfOurOwn AO3 (writers): freelocket, WysteriaFox, thedooms, franpatchy, HelgasUnibrow, LittleMissNovella, IvyChan24, lovelytomeetyou
-```
+| Social Medias | Usernames |
+| ------------- | --------- |
+| Instagram | martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen and plus exclusive artists. |
+| DeviantArt | PinMartin892, freelocket, senspring, quietpataki |
+| Reddit | MartinEesmaa, GhostieThatHauntsMe, The_Pinkest_Bow |
+| Twitter | martin123459, sillehgews, ShortLilPenny, heyajisai, ThePinkestBow |
+| Bluesky | martineesmaa.org, freelocket.bsky.social, monyartz.bsky.social, shortlilpen.bsky.social |
+| TikTok | MartinEesmaa, quietpataki, mi_infancia_14 |
+| Threads | martinhero12, ale.man.art |
+| YouTube | Martin Eesmaa, The Pinkest Bow |
+| ArchiveOfOurOwn AO3 (writers) | freelocket, WysteriaFox, thedooms, franpatchy, HelgasUnibrow, LittleMissNovella, IvyChan24, lovelytomeetyou |
 
 ## Community prompts
 
