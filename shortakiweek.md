@@ -1,38 +1,33 @@
 # Shortaki weeks
 
+Original founders of shortakiweek on Tumblr are: reinamycloud, arnolds-love & farkledagain.
+
+Since 2026 [Bluesky](http://shortakiweek.bsky.social/) (shortakiweek.bsky.social) and [DeviantArt](https://www.deviantart.com/shortakiweek) maintainer (family-friendly version): Martin Eesmaa
+
 Markdown document created by Martin Eesmaa.
 
-License: CC-BY-SA-NAI.
+License: CC-BY-SA-NAI 4.0.
 
 This document is licensed under by CC-BY-SA-NAI meaning must give credit attribution, sharealike with same license and no AI permit use. Informational, educational, research, archival or other purposes are recommendations.
 
 ## 2026
 
-From 21 June 2026 to 28 June 2026
+From 21 June 2026 to 28 June 2026 (days prompts):
 
-```text
-- Day 1 - Pier / Ice Cream / Wound 
-- Day 2 - Guilt / Let Go / Sanctuary
-- Day 3 - Angel / Friendly Fire / Slow Motion
-- Day 4 - Crystalline / Date / Caution
-- Day 5 - River / Symphony / Reap - Sow
-- Day 6 - Severed / Mourning / Discard
-- Day 7 - Fragile / Lullaby / Stay
-- Day 8 - Creator’s Choice
-```
+| **Day/Día/Päev** | **English** | **Español (Spanish)** | **Eesti keel (Estonian)** |
+| --- | ------- | --- | --- |
+| 1 | Pier / Ice Cream / Wound | Muelle / Helado / Herida | Muul / Jäätis / Haav |
+| 2 | Guilt / Let Go / Sanctuary | Culpa / Dejar Ir / Santuario | Süüdi / Lase minema / Pühamu |
+| 3 | Angel / Friendly Fire / Slow Motion | Ángel / Fuego Amigo / Cámara Lenta | Ingel / Sõbralik tuld / Aeglane motsioon |
+| 4 | Crystalline / Date / Caution | Cristalino / Cita / Precaución | Kristalline / Kohtumine / Ettevaatlik |
+| 5 | River / Symphony / Reap - Sow | Río / Sinfonía / Cosecha - Siembra | Järv / Sümfoonia / Lõigata - Emise |
+| 6 | Severed / Mourning / Discard | Separado / Luto / Desechar | Lõigatud / Leinamine / Loobu |
+| 7 | Fragile / Lullaby / Stay | Frágil / Canción de Cuna / Quedarse | Habras / Unelaul / Seisa |
+| 8 | Creator’s Choice! | ¡Selección del creador! | Looja valik! |
 
-My prompts (Martin Eesmaa's prompts) of 2026:
+Martin Eesmaa's prompts chosen from Day 1 to Day 8: Ice Cream (Jäätis), Let Go (Lase minema), Angel (Ingel), Date (Kohtumine), River (Järv), Severed (Lõigatud), Lullaby (Unelaul) & Firework (Ilutulestik) Creator's Choice / Looja valik.
 
-| Day | Prompts |
-| --- | ------- |
-| 1 | Ice Cream / Jäätis |
-| 2 | Let Go / Lase minema |
-| 3 | Angel / Ingel |
-| 4 | Date / Kohtumine |
-| 5 | River / Järv |
-| 6 | Severed / Lõigatud |
-| 7 | Lullaby / Unelaul |
-| 8 | Creator's Choice (Firework) / Looja valik (Ilutulestik) |
+Eesti keel versioon: <https://pastebin.com/QnPL2jg4>
 
 ## Social medias
 
