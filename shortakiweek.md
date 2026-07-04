@@ -12,6 +12,8 @@ This document is licensed under by CC-BY-SA-NAI meaning must give credit attribu
 
 ## 2026
 
+Archive of original shortakiweek's Tumblr account: <https://shortakiweek.tumblr.com/archive/tagged/2026>
+
 From 21 June 2026 to 28 June 2026 (days prompts):
 
 | **Day/Día/Päev** | **English** | **Español (Spanish)** | **Eesti keel (Estonian)** |
@@ -35,7 +37,7 @@ Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), exclusive 
 
 | Social Medias | Usernames |
 | ------------- | --------- |
-| Tumblr (23) | MartinEesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, Alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, PinkyDoggy83, GalaxiBabe, franpatchy, friedeggy101, LittleMissNovella, HelgasUnibrow, ivy-chan24, missingnotmissed, helgagshortman, lovelytomeetyou |
+| Tumblr (23) | MartinEesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, Alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, PinkyDoggy83, GalaxiBabe, franpatchy, friedeggy101, LittleMissNovella, HelgasUnibrow, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou |
 | Instagram (14) | martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen, mari_art905, gabbygase, helgaslizard, liebergashley, jeaoup, lizabom14 |
 | DeviantArt (4) | PinMartin892, freelocket, senspring, quietpataki |
 | Reddit (3) | MartinEesmaa, GhostieThatHauntsMe, The_Pinkest_Bow |
@@ -69,7 +71,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | [Martin Eesmaa](https://shortakiweek.tumblr.com/search/%232026+%23martineesmaa) ([Instagram](https://instagram.com/martinhero12)) | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Firework 🎨 |
 | [welovebirdmom](https://shortakiweek.tumblr.com/search/%232026+%23welovebirdmom) ([Instagram](https://instagram.com/welovebirdmom)) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | Symphony 🎨 | Mourning 🎨 | Lullaby 🎨 | Gardener 🎨 |
 | [freelocket (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23freelocket) ([Instagram](https://instagram.com/freelocket)) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | River 🎨 | Severed / Mourning / Discard 🎨 | ❌ | Twilight 🎨 (Heart 📄) |
-| [eden_fries](https://www.instagram.com/eden_fries) | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [eden_fries](https://www.tumblr.com/search/%22shortaki%20week%22%20year%3A2026%20from%3Amseden-fries) ([Instagram](https://www.instagram.com/eden_fries)) | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [mari_art905 (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23mari-art905) ([Instagram](https://instagram.com/mari_art_905)) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | Severed 🎨 | Stay 🎨 | Devotion / Kiss 🎨 |
 | [m0nyartz](https://shortakiweek.tumblr.com/search/%232026+%23m0nyartz) | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Alemanriq](https://shortakiweek.tumblr.com/search/%232026+%23alemanriq) ([Instagram](https://instagram.com/ale.man.art)) | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | Symphony 🎨 | Severed / Mourning ℹ️ | Fragile / Lullaby / Stay ℹ️ | Ponyo crossover 🎨 |
@@ -94,7 +96,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | [IvyChan24 (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23ivy-chan24) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | River / Symphony / Reap - Sow 📄 | Severed / Mourning / Discard 📄 | Fragile / Lullaby / Stay 📄 | Freedom 📄 |
 | [missingnotmissed (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23missingnotmissed) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ❌ | ❌ | ❌ | ❌ |
 | [helgagshortman (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23helgagshortman) | ❌ | Sanctuary ℹ️ | ❌ | ❌ | ❌ | Severed / Discard ℹ️ | ❌ | ❌ |
-| [lovelytomeetyou (NEW)](https://archiveofourown.org/works/87588421) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Fragile / Stay 📄 | ❌ |
+| [lovelytomeetyou (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23sometimesiwrite-lovelytomeetyou) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Fragile / Stay 📄 | ❌ |
 
 ## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
 
