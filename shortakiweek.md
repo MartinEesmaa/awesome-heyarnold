@@ -37,7 +37,7 @@ Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), exclusive 
 
 | Social Medias | Usernames |
 | ------------- | --------- |
-| Tumblr (23) | MartinEesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, Alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, PinkyDoggy83, GalaxiBabe, franpatchy, friedeggy101, LittleMissNovella, HelgasUnibrow, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou |
+| Tumblr (23) | martineesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, pinkydoggy83, galaxibabe, franpatchy, friedeggy101, littlemissnovella, helgasunibrow, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou |
 | Instagram (14) | martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen, mari_art905, gabbygase, helgaslizard, liebergashley, jeaoup, lizabom14 |
 | DeviantArt (4) | PinMartin892, freelocket, senspring, quietpataki |
 | Reddit (3) | MartinEesmaa, GhostieThatHauntsMe, The_Pinkest_Bow |
@@ -86,7 +86,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | [melfidraws](https://shortakiweek.tumblr.com/search/%232026+%23melfidraws) ([Instagram](https://instagram.com/shortlilpen)) | ❌ | ❌ | Angel 🎨 (late) | ❌ | ❌ | Severed / Mourning / Discard 🎨 (late) | ❌ | ❌ |
 | [thedooms (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23thedooms) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | Mourning 📄 | Fragile / Lullaby / Stay 📄 | Crazy 📄 |
 | [PinkyDoggy83 (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23PinkyDoggy83) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | Symphony 🎨 | ❌ (work in progress) | Lullaby 📺 | ❌ |
-| [GalaxiBabe (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23galaxibabe) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ❌ | Mourning 🎨 (with Day 2) | ❌ | ❌ |
+| [GalaxiBabe (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23galaxibabe) | Ice Cream 🎨 | Sanctuary 🎨 | Angel 🎨 | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ❌ | Mourning 🎨 (with Day 2) | ❌ | ❌ |
 | [franpatchy (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23franpatchy) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel 📄 | Crystalline / Caution 📄 | River / Symphony 📄 | Severed / Mourning / Discard 📄 | Stay 📄 | Family 📄 |
 | [friedeggy101 (NEW)](https://shortakiweek.tumblr.com/820155890092179456) | Wound 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [LittleMissNovella (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23littlemissnovella) | ❌ | Let Go 📄 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
