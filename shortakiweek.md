@@ -37,7 +37,7 @@ Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), exclusive 
 
 | Social Medias | Usernames |
 | ------------- | --------- |
-| Tumblr (23) | martineesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, pinkydoggy83, galaxibabe, franpatchy, friedeggy101, littlemissnovella, helgasunibrow, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou |
+| Tumblr (22) | martineesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, pinkydoggy83, galaxibabe, franpatchy, friedeggy101, littlemissnovella, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou |
 | Instagram (14) | martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen, mari_art905, gabbygase, helgaslizard, liebergashley, jeaoup, lizabom14 |
 | DeviantArt (4) | PinMartin892, freelocket, senspring, quietpataki |
 | Reddit (3) | MartinEesmaa, GhostieThatHauntsMe, The_Pinkest_Bow |
@@ -50,11 +50,14 @@ Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), exclusive 
 
 ## Community prompts
 
+```text
 Total count: 29 (new 21 members)
-
 Members completed all prompts: 13 (new 10 members)
-
+Total arts, fictions & videos: 154 (112 arts with some sketches, 39 fictions and 3 videos)
 The most art/fiction of chosen prompts from Day 1 to Day 7 in 2026 are: Ice Cream, Let Go, Angel, Caution, Symphony, Severed and Lullaby.
+Artists of gender: 1 male, 20 females and 8 unknown/prefer not to say/unspecified/different
+Artists of country: United States of America, Mexico, Ecuador, Estonia, Costa Rica, Brazil, United Kingdom, Peru, Chile & Indonesia
+```
 
 - 🎨: art
 - 📄: fiction
@@ -68,35 +71,35 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 
 | 2026 Artists | Day 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 (Creator's Choice) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Martin Eesmaa](https://shortakiweek.tumblr.com/search/%232026+%23martineesmaa) ([Instagram](https://instagram.com/martinhero12)) | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Firework 🎨 |
-| [welovebirdmom](https://shortakiweek.tumblr.com/search/%232026+%23welovebirdmom) ([Instagram](https://instagram.com/welovebirdmom)) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | Symphony 🎨 | Mourning 🎨 | Lullaby 🎨 | Gardener 🎨 |
-| [freelocket (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23freelocket) ([Instagram](https://instagram.com/freelocket)) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | River 🎨 | Severed / Mourning / Discard 🎨 | ❌ | Twilight 🎨 (Heart 📄) |
+| [Martin Eesmaa](https://shortakiweek.tumblr.com/search/2026+martineesmaa) ([Instagram](https://instagram.com/martinhero12)) | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Firework 🎨 |
+| [welovebirdmom](https://shortakiweek.tumblr.com/search/2026+welovebirdmom) ([Instagram](https://instagram.com/welovebirdmom)) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | Symphony 🎨 | Mourning 🎨 | Lullaby 🎨 | Gardener 🎨 |
+| [freelocket (NEW)](https://shortakiweek.tumblr.com/search/2026+freelocket) ([Instagram](https://instagram.com/freelocket)) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | River 🎨 | Severed / Mourning / Discard 🎨 | ❌ | Twilight 🎨 (Heart 📄) |
 | [eden_fries](https://www.tumblr.com/search/%22shortaki%20week%22%20year%3A2026%20from%3Amseden-fries) ([Instagram](https://www.instagram.com/eden_fries)) | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [mari_art905 (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23mari-art905) ([Instagram](https://instagram.com/mari_art_905)) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | Severed 🎨 | Stay 🎨 | Devotion / Kiss 🎨 |
-| [m0nyartz](https://shortakiweek.tumblr.com/search/%232026+%23m0nyartz) | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Alemanriq](https://shortakiweek.tumblr.com/search/%232026+%23alemanriq) ([Instagram](https://instagram.com/ale.man.art)) | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | Symphony 🎨 | Severed / Mourning ℹ️ | Fragile / Lullaby / Stay ℹ️ | Ponyo crossover 🎨 |
-| [thepinkestbow](https://www.tumblr.com/thepinkestbow/820712313190547456/) ([Instagram](https://instagram.com/the.pinkest.bow)) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Animation meme 📺 (Grizzly no Osowareta - Shortaki edition) |
+| [mari_art905 (NEW)](https://shortakiweek.tumblr.com/search/2026+mari-art905) ([Instagram](https://instagram.com/mari_art_905)) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | Severed 🎨 | Stay 🎨 | Devotion / Kiss 🎨 |
+| [m0nyartz](https://shortakiweek.tumblr.com/search/2026+m0nyartz) | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Alemanriq](https://shortakiweek.tumblr.com/search/2026+alemanriq) ([Instagram](https://instagram.com/ale.man.art)) | Pier / Ice Cream / Wound ℹ️ | Guilt / Let Go / Sanctuary ℹ️ | Angel / Friendly Fire ℹ️ | Crystalline / Date / Caution ℹ️ | Symphony 🎨 | Severed / Mourning ℹ️ | Fragile / Lullaby / Stay ℹ️ | Ponyo crossover 🎨 |
+| [thepinkestbow](https://www.tumblr.com/thepinkestbow/820712313190547456/) ([Instagram](https://instagram.com/the.pinkest.bow)) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Animation meme 🎨📺 (Grizzly no Osowareta - Shortaki edition) |
 | [Wysteria Fox (NEW)](https://www.tumblr.com/wysteriathefox/tagged/shortakiweek2026) | Wound 📄 | Let Go 🎨 | Angel 🎨 | Date / Caution 🎨 (with GalaxiBabe as collaborator) | Symphony 🎨 | Severed 📄 | Stay 🎨 | Sudden (formerly Unity) 🎨 |
-| [quietpataki (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23quietpataki) ([Instagram](https://instagram.com/quietpataki)) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Beach Day (Playa) 🎨 |
+| [quietpataki (NEW)](https://shortakiweek.tumblr.com/search/2026+quietpataki) ([Instagram](https://instagram.com/quietpataki)) | Wound 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Beach Day (Playa) 🎨 |
 | [gabbygase](https://www.instagram.com/p/DZ35-bnHMfU/) ([Instagram](https://instagram.com/gabbygase)) | Pier 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [helgaslizard (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23helgaslizard) ([Instagram](https://instagram.com/helgaslizard)) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Discard 🎨 | Lullaby 🎨 | Princess 🎨 |
-| [toofpaste-art (NEW) ](https://shortakiweek.tumblr.com/search/%232026+%23toofpaste-art) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | ❌ | Symphony 🎨 | ❌ | ❌ | ❌ |
-| [liebergashley (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23liebergashley) ([Instagram](https://instagram.com/liebergashley)) | Pier / Ice Cream / Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel / Friendly Fire / Slow Motion 📺ℹ️ | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | Severed / Mourning / Discard 🎨 | Fragile / Lullaby / Stay 🎨 | Sweatshirt 📺ℹ️ |
+| [helgaslizard (NEW)](https://shortakiweek.tumblr.com/search/2026+helgaslizard) ([Instagram](https://instagram.com/helgaslizard)) | Ice Cream 🎨 | Guilt 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Discard 🎨 | Lullaby 🎨 | Princess 🎨 |
+| [toofpaste-art (NEW) ](https://shortakiweek.tumblr.com/search/2026+toofpaste-art) | Ice Cream 🎨 | Sanctuary 🎨 | ❌ | ❌ | Symphony 🎨 | ❌ | ❌ | ❌ |
+| [liebergashley (NEW)](https://shortakiweek.tumblr.com/search/2026+liebergashley) ([Instagram](https://instagram.com/liebergashley)) | Pier / Ice Cream / Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel / Friendly Fire / Slow Motion 📺ℹ️ | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | Severed / Mourning / Discard 🎨 | Fragile / Lullaby / Stay 🎨 | Sweatshirt 📺ℹ️ |
 | [Liza_Bom_14 (NEW)](https://www.instagram.com/p/DaJglwhmLe0/) | Pier 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | Symphony 🎨 | Severed 🎨 | Lullaby 🎨 | Opposite 🎨 |
-| [melfidraws](https://shortakiweek.tumblr.com/search/%232026+%23melfidraws) ([Instagram](https://instagram.com/shortlilpen)) | ❌ | ❌ | Angel 🎨 (late) | ❌ | ❌ | Severed / Mourning / Discard 🎨 (late) | ❌ | ❌ |
-| [thedooms (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23thedooms) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | Mourning 📄 | Fragile / Lullaby / Stay 📄 | Crazy 📄 |
-| [PinkyDoggy83 (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23PinkyDoggy83) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | Symphony 🎨 | ❌ (work in progress) | Lullaby 📺 | ❌ |
-| [GalaxiBabe (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23galaxibabe) | Ice Cream 🎨 | Sanctuary 🎨 | Angel 🎨 | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ❌ | Mourning 🎨 (with Day 2) | ❌ | ❌ |
-| [franpatchy (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23franpatchy) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel 📄 | Crystalline / Caution 📄 | River / Symphony 📄 | Severed / Mourning / Discard 📄 | Stay 📄 | Family 📄 |
+| [melfidraws](https://shortakiweek.tumblr.com/search/2026+melfidraws) ([Instagram](https://instagram.com/shortlilpen)) | ❌ | ❌ | Angel 🎨 (late) | ❌ | ❌ | Severed / Mourning / Discard 🎨 (late) | ❌ | ❌ |
+| [thedooms (NEW)](https://shortakiweek.tumblr.com/search/2026+thedooms) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | Mourning 📄 | Fragile / Lullaby / Stay 📄 | Crazy 📄 |
+| [PinkyDoggy83 (NEW)](https://shortakiweek.tumblr.com/search/2026+PinkyDoggy83) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | Symphony 🎨 | ❌ (work in progress) | Lullaby 📺 | ❌ |
+| [GalaxiBabe (NEW)](https://shortakiweek.tumblr.com/search/2026+galaxibabe) | Ice Cream 🎨 | Sanctuary 🎨 | Angel 🎨 | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ❌ | Mourning 🎨 (with Day 2) | ❌ | ❌ |
+| [franpatchy (NEW)](https://shortakiweek.tumblr.com/search/2026+franpatchy) | Wound 📄 | Guilt 📄 | Angel 📄 | Crystalline / Caution 📄 | River / Symphony 📄 | Severed / Mourning / Discard 📄 | Stay 📄 | Family 📄 |
 | [friedeggy101 (NEW)](https://shortakiweek.tumblr.com/820155890092179456) | Wound 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [LittleMissNovella (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23littlemissnovella) | ❌ | Let Go 📄 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [HelgasUnibrow (NEW)](https://archiveofourown.org/works/87133821/) | Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | River / Symphony / Reap - Sow 📄 | Severed / Mourning / Discard 📄 | Fragile / Lullaby / Stay 📄 | The Talk 📄 |
-| [jeaoup (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23jeaoup) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | Severed 🎨 | Lullaby / Stay 🎨 | ❌ |
-| [heyajiisai (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23HeyAjiisai) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ❌ | ❌ | Severed 🎨 (Day 2) | ❌ | ❌ |
-| [IvyChan24 (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23ivy-chan24) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | River / Symphony / Reap - Sow 📄 | Severed / Mourning / Discard 📄 | Fragile / Lullaby / Stay 📄 | Freedom 📄 |
-| [missingnotmissed (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23missingnotmissed) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ❌ | ❌ | ❌ | ❌ |
-| [helgagshortman (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23helgagshortman) | ❌ | Sanctuary ℹ️ | ❌ | ❌ | ❌ | Severed / Discard ℹ️ | ❌ | ❌ |
-| [lovelytomeetyou (NEW)](https://shortakiweek.tumblr.com/search/%232026+%23sometimesiwrite-lovelytomeetyou) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Fragile / Stay 📄 | ❌ |
+| [LittleMissNovella (NEW)](https://shortakiweek.tumblr.com/search/2026+littlemissnovella) | ❌ | Let Go 📄 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [HelgasUnibrow (NEW)](https://shortakiweek.tumblr.com/post/820159113726197760) | Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | River / Symphony / Reap - Sow 📄 | Severed / Mourning / Discard 📄 | Fragile / Lullaby / Stay 📄 | The Talk 📄 |
+| [jeaoup (NEW)](https://shortakiweek.tumblr.com/search/2026+jeaoup) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline / Date / Caution 🎨 | River / Symphony / Reap - Sow 🎨 | Severed 🎨 | Lullaby / Stay 🎨 | ❌ |
+| [heyajiisai (NEW)](https://shortakiweek.tumblr.com/search/2026+HeyAjiisai) | Pier / Ice Cream / Wound 🎨 | ❌ | ❌ | ❌ | ❌ | Severed 🎨 (Day 2) | ❌ | ❌ |
+| [IvyChan24 (NEW)](https://shortakiweek.tumblr.com/search/2026+ivy-chan24) | Pier / Ice Cream / Wound 📄 | Guilt / Let Go / Sanctuary 📄 | Angel / Friendly Fire / Slow Motion 📄 | Crystalline / Date / Caution 📄 | River / Symphony / Reap - Sow 📄 | Severed / Mourning / Discard 📄 | Fragile / Lullaby / Stay 📄 | Freedom 📄 |
+| [missingnotmissed (NEW)](https://shortakiweek.tumblr.com/search/2026+missingnotmissed) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ❌ | ❌ | ❌ | ❌ |
+| [helgagshortman (NEW)](https://shortakiweek.tumblr.com/search/2026+helgagshortman) | ❌ | Sanctuary ℹ️ | ❌ | ❌ | ❌ | Severed / Discard ℹ️ | ❌ | ❌ |
+| [lovelytomeetyou (NEW)](https://shortakiweek.tumblr.com/search/2026+sometimesiwrite-lovelytomeetyou) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Fragile / Stay 📄 | ❌ |
 
 ## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
 
