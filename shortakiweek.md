@@ -55,7 +55,7 @@ Note for Martin Eesmaa's social media accounts are martineesmaa (Tumblr, Reddit,
 ```text
 Total count: 29 (new 21 members)
 Members completed all prompts: 13 (new 10 members)
-Total arts, fictions & videos: 155 (113 arts with some sketches, 39 fictions and 3 videos)
+Total arts, fictions & videos: 156 (113 arts with some sketches, 40 fictions and 3 videos)
 The most art/fiction of chosen prompts from Day 1 to Day 7 in 2026 are: Ice Cream, Let Go, Angel, Caution, Symphony, Severed and Lullaby.
 Artists of gender: 1 male, 20 females and 8 unknown/prefer not to say/unspecified/different
 Artists of country: United States of America, Mexico, Ecuador, Estonia, Costa Rica, Brazil, United Kingdom, Peru, Chile & Indonesia
