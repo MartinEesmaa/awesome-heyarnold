@@ -1,6 +1,6 @@
 # Shortaki weeks
 
-Original founders of shortakiweek on Tumblr, Twitter and Instagram are: reinamycloud, arnolds-love & farkledagain.
+Original founders of shortakiweek on Tumblr, Twitter and Instagram are maintained by: reinamycloud, arnolds-love & farkledagain.
 
 Since 2026 [Bluesky](http://shortakiweek.bsky.social/) (shortakiweek.bsky.social) and [DeviantArt](https://www.deviantart.com/shortakiweek) are ***UNOFFICIAL*** fan accounts (not connected/affiliated to official Tumblr, Instagram and Twitter accounts of shortakiweek) and it is fan account maintained (family-friendly version) by: Martin Eesmaa
 
@@ -8,7 +8,7 @@ Markdown document created by Martin Eesmaa.
 
 License: CC-BY-SA-NAI 4.0.
 
-This document is licensed under by CC-BY-SA-NAI meaning must give credit attribution, sharealike with same license and no AI permit use. Informational, educational, research, archival or other purposes are recommendations.
+This document is licensed under by CC-BY-SA-NAI 4.0 means that must give credit attribution, sharealike with same license and no AI permit use. Informational, educational, research, archival or other purposes are recommendations.
 
 ## 2026
 
@@ -35,6 +35,8 @@ Eesti keel versioon: <https://pastebin.com/QnPL2jg4>
 
 Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), exclusive artists share their own posts to everyone on Instagram and others.
 
+Note for Martin Eesmaa's social media accounts are martineesmaa (Tumblr, Reddit, TikTok, YouTube & AO3), martinhero12 (Instagram/Threads), martin123459 (Twitter), martineesmaa.org (Bluesky) & PinMartin892 (DeviantArt).
+
 | Social Medias | Usernames |
 | ------------- | --------- |
 | Tumblr (22) | martineesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, pinkydoggy83, galaxibabe, franpatchy, friedeggy101, littlemissnovella, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou |
@@ -45,7 +47,7 @@ Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), exclusive 
 | Bluesky (4) | martineesmaa.org, freelocket.bsky.social, monyartz.bsky.social, shortlilpen.bsky.social |
 | TikTok (3) | MartinEesmaa, quietpataki, mi_infancia_14 |
 | Threads (2) | martinhero12, ale.man.art |
-| YouTube (2) | Martin Eesmaa, The Pinkest Bow |
+| YouTube (2) | @MartinEesmaa, @ThePinkestBow |
 | Archive Of Our Own (8 writers) | freelocket, WysteriaFox, thedooms, franpatchy, HelgasUnibrow, LittleMissNovella, IvyChan24, lovelytomeetyou |
 
 ## Community prompts
@@ -53,7 +55,7 @@ Almost all artists of shortakiweek 2026 uses Tumblr (popular choice), exclusive 
 ```text
 Total count: 29 (new 21 members)
 Members completed all prompts: 13 (new 10 members)
-Total arts, fictions & videos: 154 (112 arts with some sketches, 39 fictions and 3 videos)
+Total arts, fictions & videos: 155 (113 arts with some sketches, 39 fictions and 3 videos)
 The most art/fiction of chosen prompts from Day 1 to Day 7 in 2026 are: Ice Cream, Let Go, Angel, Caution, Symphony, Severed and Lullaby.
 Artists of gender: 1 male, 20 females and 8 unknown/prefer not to say/unspecified/different
 Artists of country: United States of America, Mexico, Ecuador, Estonia, Costa Rica, Brazil, United Kingdom, Peru, Chile & Indonesia
@@ -65,7 +67,7 @@ Artists of country: United States of America, Mexico, Ecuador, Estonia, Costa Ri
 - ℹ️: sketch (meaningly work in progress or finished without color likely)
 - (no icon) / ?: coming soon (due 48 hours in each day prompt)
 - ❌: absent / skipped
-- NEW: new member of shortakiweek in 2026
+- NEW (with parantheses): new member of shortakiweek in 2026
 
 Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some Instagram/AO3 links with their profile or single post are in parantheses/brackets.
 
@@ -73,7 +75,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Martin Eesmaa](https://shortakiweek.tumblr.com/search/2026+martineesmaa) ([Instagram](https://instagram.com/martinhero12)) | Ice Cream 🎨 | Let Go 🎨 | Angel 🎨 | Date 🎨 | River 🎨 | Severed 🎨 | Lullaby 🎨 | Firework 🎨 |
 | [welovebirdmom](https://shortakiweek.tumblr.com/search/2026+welovebirdmom) ([Instagram](https://instagram.com/welovebirdmom)) | Wound 🎨 | Guilt / Let Go / Sanctuary 🎨 | Angel 🎨 | Crystalline 🎨 | Symphony 🎨 | Mourning 🎨 | Lullaby 🎨 | Gardener 🎨 |
-| [freelocket (NEW)](https://shortakiweek.tumblr.com/search/2026+freelocket) ([Instagram](https://instagram.com/freelocket)) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 | Caution 🎨 | River 🎨 | Severed / Mourning / Discard 🎨 | ❌ | Twilight 🎨 (Heart 📄) |
+| [freelocket (NEW)](https://shortakiweek.tumblr.com/search/2026+freelocket) ([Instagram](https://instagram.com/freelocket)) | Ice Cream 🎨 (Pier / Ice Cream / Wound 📄) | Let Go / Sanctuary 🎨 (Guilt / Let Go / Sanctuary 📄) | Angel 🎨 (Angel / Friendly Fire / Slow Motion 📄) | Caution 🎨 | River 🎨 | Severed / Mourning / Discard 🎨 | ❌ | Twilight 🎨 (Heart 📄) |
 | [eden_fries](https://www.tumblr.com/search/%22shortaki%20week%22%20year%3A2026%20from%3Amseden-fries) ([Instagram](https://www.instagram.com/eden_fries)) | Pier / Ice Cream / Wound 🎨 | Sanctuary 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [mari_art905 (NEW)](https://shortakiweek.tumblr.com/search/2026+mari-art905) ([Instagram](https://instagram.com/mari_art_905)) | Pier 🎨 | Sanctuary 🎨 | Angel 🎨 | Date 🎨 | Symphony 🎨 | Severed 🎨 | Stay 🎨 | Devotion / Kiss 🎨 |
 | [m0nyartz](https://shortakiweek.tumblr.com/search/2026+m0nyartz) | Pier / Ice Cream 🎨 | ❌ | Angel 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -88,7 +90,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | [Liza_Bom_14 (NEW)](https://www.instagram.com/p/DaJglwhmLe0/) | Pier 🎨 | Let Go 🎨 | Angel 🎨 | Caution 🎨 | Symphony 🎨 | Severed 🎨 | Lullaby 🎨 | Opposite 🎨 |
 | [melfidraws](https://shortakiweek.tumblr.com/search/2026+melfidraws) ([Instagram](https://instagram.com/shortlilpen)) | ❌ | ❌ | Angel 🎨 (late) | ❌ | ❌ | Severed / Mourning / Discard 🎨 (late) | ❌ | ❌ |
 | [thedooms (NEW)](https://shortakiweek.tumblr.com/search/2026+thedooms) | Pier 📄 | Let Go 📄 | Angel 📄 | Date / Caution 📄 | Reap - Sow 📄 | Mourning 📄 | Fragile / Lullaby / Stay 📄 | Crazy 📄 |
-| [PinkyDoggy83 (NEW)](https://shortakiweek.tumblr.com/search/2026+PinkyDoggy83) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | Symphony 🎨 | ❌ (work in progress) | Lullaby 📺 | ❌ |
+| [PinkyDoggy83 (NEW)](https://shortakiweek.tumblr.com/search/2026+PinkyDoggy83) | Pier 🎨 | Sanctuary 🎨 | Slow Motion 🎨 | Caution 🎨 | Symphony 🎨 | Discard 🎨 | Lullaby 📺 | ❌ |
 | [GalaxiBabe (NEW)](https://shortakiweek.tumblr.com/search/2026+galaxibabe) | Ice Cream 🎨 | Sanctuary 🎨 | Angel 🎨 | Date / Caution 🎨 (with Wysteria Fox as collaborator) | ❌ | Mourning 🎨 (with Day 2) | ❌ | ❌ |
 | [franpatchy (NEW)](https://shortakiweek.tumblr.com/search/2026+franpatchy) | Wound 📄 | Guilt 📄 | Angel 📄 | Crystalline / Caution 📄 | River / Symphony 📄 | Severed / Mourning / Discard 📄 | Stay 📄 | Family 📄 |
 | [friedeggy101 (NEW)](https://shortakiweek.tumblr.com/820155890092179456) | Wound 🎨 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -101,7 +103,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | [helgagshortman (NEW)](https://shortakiweek.tumblr.com/search/2026+helgagshortman) | ❌ | Sanctuary ℹ️ | ❌ | ❌ | ❌ | Severed / Discard ℹ️ | ❌ | ❌ |
 | [lovelytomeetyou (NEW)](https://shortakiweek.tumblr.com/search/2026+sometimesiwrite-lovelytomeetyou) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Fragile / Stay 📄 | ❌ |
 
-## Descriptions / Kirjeldused shortakiweek2026 (Martin Eesmaa)
+## Descriptions / Kirjeldused shortaki week 2026 (Martin Eesmaa)
 
 ```text
 1. Jäätis / Ice Cream
@@ -132,7 +134,7 @@ English: Arnold and Helga went to a new restaurant, they wanna try to eat heart 
 Arnold ja Helga on paadis peal koos päästevestid, puhkavad armastus.
 English: Arnold and Helga were in a boat with life jackets, rest love.
 
-6. Lõigatud / Severed
+6. Severed / Lõigatud
 
 Arnold ja Helga on mõlemas eraldi parvlaevas tuleb Eestist, nemad läksid vale laevasse Soome ja Rootsi.
 English: Arnold and Helga were in separated in both ferry ships coming from Estonia, but they went to wrong ships Finland and Sweden.
