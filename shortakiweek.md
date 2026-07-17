@@ -103,7 +103,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | [missingnotmissed (NEW)](https://shortakiweek.tumblr.com/search/2026+missingnotmissed) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ❌ | ❌ | ❌ | ❌ |
 | [helgagshortman (NEW)](https://shortakiweek.tumblr.com/search/2026+helgagshortman) | ❌ | Sanctuary ℹ️ | ❌ | ❌ | ❌ | Severed / Discard ℹ️ | ❌ | ❌ |
 | [lovelytomeetyou (NEW)](https://shortakiweek.tumblr.com/search/2026+sometimesiwrite-lovelytomeetyou) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Fragile / Stay 📄 | ❌ |
-| jeremyfuscaldo](https://jeremyfuscaldo.tumblr.com/822235633284235264/) | Pier / Ice Cream ℹ️ (late) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [jeremyfuscaldo](https://jeremyfuscaldo.tumblr.com/822235633284235264/) | Pier / Ice Cream ℹ️ (late) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## Descriptions / Kirjeldused shortaki week 2026 (Martin Eesmaa)
 
