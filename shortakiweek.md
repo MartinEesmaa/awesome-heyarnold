@@ -39,7 +39,7 @@ Note for Martin Eesmaa's social media accounts are martineesmaa (Tumblr, Reddit,
 
 | Social Medias | Usernames |
 | ------------- | --------- |
-| Tumblr (22) | martineesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, pinkydoggy83, galaxibabe, franpatchy, friedeggy101, littlemissnovella, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou |
+| Tumblr (23) | martineesmaa, welovebirdmom, freelocket, mseden-fries, mari-art-905, m0nyartz, alemanriq, thepinkestbow, wysteriathefox, quietpataki, toofpaste-art, melfidraws, thedooms, pinkydoggy83, galaxibabe, franpatchy, friedeggy101, littlemissnovella, ivy-chan24, missingnotmissed, helgagshortman, sometimesiwrite-lovelytomeetyou, jeremyfuscaldo |
 | Instagram (14) | martinhero12, welovebirdmom, freelocket, eden_fries, ale.man.art, the.pinkest.bow, quietpataki, shortlilpen, mari_art905, gabbygase, helgaslizard, liebergashley, jeaoup, lizabom14 |
 | DeviantArt (4) | PinMartin892, freelocket, senspring, quietpataki |
 | Reddit (3) | MartinEesmaa, GhostieThatHauntsMe, The_Pinkest_Bow |
@@ -53,12 +53,13 @@ Note for Martin Eesmaa's social media accounts are martineesmaa (Tumblr, Reddit,
 ## Community prompts
 
 ```text
-Total count: 29 (new 21 members)
+Total count: 30 (new 21 members)
 Members completed all prompts: 13 (new 10 members)
-Total arts, fictions & videos: 156 (113 arts with some sketches, 40 fictions and 3 videos)
+Total arts, fictions & videos: 157 (114 arts with some sketches, 40 fictions and 3 videos)
 The most art/fiction of chosen prompts from Day 1 to Day 7 in 2026 are: Ice Cream, Let Go, Angel, Caution, Symphony, Severed and Lullaby.
-Artists of gender: 1 male, 20 females and 8 unknown/prefer not to say/unspecified/different
-Artists of country: United States of America, Mexico, Ecuador, Estonia, Costa Rica, Brazil, United Kingdom, Peru, Chile & Indonesia
+Artists of gender: 1 male, 20 females and 9 unknown/prefer not to say/unspecified/different
+Artists of country: United States of America (USA), Mexico, Ecuador, Estonia, Costa Rica, 
+Brazil, United Kingdom (UK), Peru, Chile & Indonesia
 ```
 
 - 🎨: art
@@ -102,6 +103,7 @@ Note: I putted links for quick search on shortakiweek 2026 of Tumblr and some In
 | [missingnotmissed (NEW)](https://shortakiweek.tumblr.com/search/2026+missingnotmissed) | ❌ | Let Go 🎨 | ❌ | Date 🎨 | ❌ | ❌ | ❌ | ❌ |
 | [helgagshortman (NEW)](https://shortakiweek.tumblr.com/search/2026+helgagshortman) | ❌ | Sanctuary ℹ️ | ❌ | ❌ | ❌ | Severed / Discard ℹ️ | ❌ | ❌ |
 | [lovelytomeetyou (NEW)](https://shortakiweek.tumblr.com/search/2026+sometimesiwrite-lovelytomeetyou) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Fragile / Stay 📄 | ❌ |
+| jeremyfuscaldo](https://jeremyfuscaldo.tumblr.com/822235633284235264/) | Pier / Ice Cream ℹ️ (late) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## Descriptions / Kirjeldused shortaki week 2026 (Martin Eesmaa)
 
