@@ -23,7 +23,8 @@ Former artists from countries:
 
 ```text
 Finland, Ukraine, Morocco, Spain, Norway, Sweden, Kazakhstan,
-Dominican Republic, Singapore, Malaysia, Romania
+Dominican Republic, Singapore, Malaysia, Romania, Puerto Rico,
+Vietnam
 ```
 
 See more lists of fan artists: [artists.md](artists.md)
