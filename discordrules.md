@@ -4,9 +4,18 @@
 
 | Server Owner | Created At | Verification Level | Channels | Roles |
 | --- | --- | --- | --- | --- |
-| Betaruga | 28.03.2023 01:09:22.542 UTC | None | 30 | 11 |
+| Betaruga | 28.03.2023 01:09:22.542 UTC | None | 28 | 13 |
 
-Before you joining Discord fan community server, please see the rules in the below...
+```text
+Discord Server ID: 1090080158691643422
+Emojis: 52
+Members: 181 (dated on: 22.07.2026)
+Messages: 378K results
+```
+
+Join the server: <https://discord.gg/UcFqCkgJ8P>
+
+Before you join Discord community fan server, please see the rules below...
 
 ## SERVER RULES
 
@@ -23,8 +32,25 @@ Before you joining Discord fan community server, please see the rules in the bel
 
 ## Disclaimer
 
-Please note that it is unofficial Hey Arnold Discord server and it is not affliated, sponsored or owned the server by Nickelodeon and Paramount.
+Please note that it is unofficial Hey Arnold Discord server and it is not affliated, sponsored, endorsed or owned by Nickelodeon and Paramount.
 
-Most or some messages of Discord server may include bad words or some may contain mild contents... just in case warning to everyone.
+Most or some messages of Discord server may include bad words or some may contain mild contents... just in case to warn everyone.
+
+## Privacy Guidelines
+
+As the server does not have privacy guidelines, I decided to make my own unofficial privacy guidelines just in case before you join the server.
+
+The bots are in the server are following:
+
+- Zira (A role management job)
+- FixTweet (automatically reposts social media links with fixed embed)
+- Quark Logger (Free plan, currently it does not log the messages, only logs message for ban, kick, unban...)
+- Translator (translates original message via translator command into another language)
+- FredBoat (play music via commands on voice channels)
+
+Each bots have their own privacy policies.
+
+> [!WARNING]
+> Remember you cannot delete the bots messages after you sent the message with original social media link, command via translator and FredBoat. If you want to delete bots messages for compliance reasons, please contact moderators or admins to request delete the bot messages.
 
 - Martin Eesmaa
