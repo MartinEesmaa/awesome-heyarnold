@@ -16,7 +16,7 @@ Active artists from countries in nowadays:
 Estonia, United States of America, Mexico, United Kingdom, Costa Rica,
 Indonesia, Australia, Japan, Chile, Colombia, Argentina, Brazil, Russia, 
 China, Canada, Uruguay, Switzerland, Philippines, Germany, Peru 
-Panama, Ecuador, Venezuela, Italy
+Panama, Ecuador, Venezuela, Italy, Belgium
 ```
 
 Former artists from countries:
