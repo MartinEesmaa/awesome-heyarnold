@@ -105,5 +105,7 @@ Three private channels were hidden to selected roles with limited permissions, n
 | wips-sketches | Your #wips and sketches go here! Doesn't have to be Hey Arnold...please refrain from reposting art | 23.05.2023 |
 | writing | Fanfic writer? Or have a fic you love? Link it here and show it off! | 17.08.2024 |
 | oc-chat | Post your OCs! | 19.08.2024 |
+| Let's hang! | N/A | 21.09.2024 |
+| Alternate-Voice-Chat | N/A | 09.04.2025 |
 
 - Martin Eesmaa
