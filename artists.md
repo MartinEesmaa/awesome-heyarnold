@@ -18,20 +18,20 @@ This document is licensed under by CC-BY-SA-NAI meaning credit attribution requi
 
 Must be less than one year to be active member
 
-| Username | Member since | Feedback info |
+| Username | Public member since | Feedback info |
 | --- | --- | --- |
-| Martin Eesmaa (full name) | 22.06.2025 | An Estonian severe autism with invisibility disability artist, but best modding games, helping others and kind & friendly artist |
+| Martin Eesmaa (full name) | 22.06.2025 (since November 2024) | An Estonian severe autism with invisibility disability artist, but best modding games, helping others and kind & friendly artist |
 | metalheadrailfan | 2011 | Fandom artist (note: SFW contents okay. Private discussions restricted to 18+) |
 | melfidraws | October 2018 | Fan artist (note: SFW contents okay. Private discussions restricted to 18+) |
 | welovebirdmom | Early 2016-2017 / Return: 31.10.2024 | Winner and happiest artist |
-| leskuh/farkledagain | 26.01.2010 | Longest active user & co-founder of shortakiweek (note: involved public community callout from 2022, minors advised do not interact) |
+| leskuh/farkledagain/SquirrelTamer | Circa 2000s | Longest active user & co-founder of shortakiweek (note: involved public community callout from 2022, minors advised do not interact) |
 | freelocket | 06.09.2025 | Amazing writer with illustration |
 | Gabrielle Dorigam | 25.03.2023 | N/A |
-| quietpataki | 2022 | N/A |
+| quietpataki | 12.03.2026 (since 2017) | N/A |
 | Adio | 11.06.2025 | Designer and digital artist |
 | helgaspinkbow | 02.02.2025 | N/A |
 | Betaruga | 02.02.2022 | Founder of Operation The Patakis, married and focusing her personal life |
-| Kinako | 25.10.2020 | Japanese magma style artist |
+| Kinako | 15.01.2011 | Japanese magma style artist |
 | hellengomes | 01.06.2025 | Cute style artist |
 | Jeremy Fuscaldo | 2012 | Great storyboard artist |
 | SenBug (eden_fries) | 15.05.2023 | Very epic comic artist |

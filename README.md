@@ -16,7 +16,7 @@ Active artists from countries in nowadays:
 Estonia, United States of America, Mexico, United Kingdom, Costa Rica,
 Indonesia, Australia, Japan, Chile, Colombia, Argentina, Brazil, Russia, 
 China, Canada, Uruguay, Switzerland, Philippines, Germany, Peru 
-Panama, Ecuador, Venezuela, Italy, Belgium
+Panama, Ecuador, Venezuela, Italy
 ```
 
 Former artists from countries:
@@ -24,22 +24,22 @@ Former artists from countries:
 ```text
 Finland, Ukraine, Morocco, Spain, Norway, Sweden, Kazakhstan,
 Dominican Republic, Singapore, Malaysia, Romania, Puerto Rico,
-Vietnam
+Vietnam, Belgium, France, Croatia
 ```
 
 See more lists of fan artists: [artists.md](artists.md)
 
 # Fan communities
 
-If you're looking forward to join communities, you're feel free welcome to join our community with your respect and kindness. For under 18, it is recommend to ask your parent or legal guardian for permission before joining to online community.
+If you're looking forward to join communities, you're feel free welcome to join our community with your respect and kindness. For under 18 years old, it is recommend to ask your parent or legal guardian's permission before joining to the online community in a public.
 
-**Minors are not allowed to join 18+ SFW communities and please note NSFW communities are not allowed & displayed at all.**
+**Minors are not allowed to join 18+ SFW communities and please note that NSFW communities are not allowed & displayed at all.**
 
 | Community | Owner | Started at | Members count total | Link (rules if applicable before link) | Age requirement |
 | --------- | ------- | ------- | ---- | ---- | --------------- |
-| Hey Arnold! OP The Patakis (Discord server) | Betaruga | 28.03.2023 01:09:22.542 (UTC) | 176+ members | <https://discord.gg/UcFqCkgJ8P> (please see the rules: [Rules](discordrules.md)) | Current 18+ (SFW), originally was 13+ gap |
-| Nickelodeon Hey Arnold! Fan club | Piers Ashley (Administrator) | 09.09.2018 | Around 3.1k | <https://facebook.com/groups/325037384739213> | Unreviewed |
-| Shortaki Love 🧢🎀 | hellengomes | 08.05.2025 | 35+ | <https://tumblr.com/communities/shortaki-love/> | Unreviewed |
+| Hey Arnold! OP The Patakis (Discord server) | Betaruga | 28.03.2023 01:09:22.542 (UTC) | 196+ members | <https://discord.gg/UcFqCkgJ8P> (please see the rules: [Rules](discordrules.md)) | Current 18+ (SFW), original was 13+ |
+| Nickelodeon Hey Arnold! Fan club | Piers Ashley (Administrator) | 09.09.2018 | Around 3.4k | <https://facebook.com/groups/325037384739213> | Unreviewed |
+| Shortaki Love 🧢🎀 | hellengomes | 08.05.2025 | 58+ | <https://tumblr.com/communities/shortaki-love/> | Unreviewed |
 | heyarnoldfans | MarcosBnPinto | 23.12.2009 | 1.7K | <https://deviantart.com/heyarnoldfans/> | Unknown |
 
 # Fan games
@@ -93,6 +93,22 @@ If you're looking forward to join communities, you're feel free welcome to join 
 - [Minecraft Character Skins](https://www.planetminecraft.com/skins/?keywords=nickelodeon+%22Hey+Arnold%22) - Bunch of Hey Arnold! Minecraft character skins.
 
 - [Party Board](https://gamebanana.com/mods/600496) - Nicktoons Pack (Complete edition), it shows all some Nicktoons characters, including Arnold Shortman (well only one). Added Arnold Shortman character in July 2025 with Pack 5 Update by CheckABookout. NOTE: In United Kingdom, imgur blocks access after proposed fine in September 2025, that means it is unplayable for UK users (well mod creator uses Imgur) unless it is replaced with local copy or another image hosting platform for next update.
+
+## Fan animations
+
+- [Hey Arnold The Patakis](https://www.newgrounds.com/portal/view/541522) - Fan animation made by KokoroAsukara known as Meryl Jennyfer Valdes Maciel in 2010.
+
+- [Ayo, Gerald! - Hey Arnold! 3D Spinoff](https://www.youtube.com/watch?v=c1yxcn4KbWM) - 3D animation fan-made spin-off of Hey Arnold! made by Nobody Famous in August 2025 and animation used Blender.
+
+- [Hey Arnold - 3D Bedroom Journey](https://www.youtube.com/watch?v=TocQ7O2yOO0) - Arnold's bedroom journey in 3D animation of school project created by Rodrigo Cuadriello in May 2014.
+
+- [Hey Arnold's room in 3d](https://www.youtube.com/watch?v=IcZ36viEg-0) - Final project for virttual form class, made in Spring 2010. 3D rendering of Arnold's room from Hey Arnold done in AutoDesk Maya.
+
+- [Arnold's Date (Hey Arnold Fan Animation)](https://www.youtube.com/watch?v=anFEgSw02XI) - Arnold went to see Helga in future called by a date. Done in April 2020 by Mary Sigona George (bizarremoons)
+
+- [Arnold Confession to Helga (Hey Arnold Animation)](https://www.youtube.com/watch?v=a2XOsA9SGOA) - Arnold is having a hard time and confesses to Helga. Done in November 2022 by Mary S. George (bizarremoons)
+
+Some Oatumn and Nebelihood may also have Hey Arnold! fan animations.
 
 ## Official video games based
 

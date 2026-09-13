@@ -8,7 +8,7 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 
 **Euroopa prototüüp test ja finaal versioon:**
 
-| Kirjeldus | Kood lõhkuja | Lisateave |
+| Kirjeldus | Kood lõhkuja (Code Breaker) | Lisateave |
 | --- | --- | --- |
 | Peida relv ikoon HUD | `33000024 00A0`<br>`33000026 00F0` | ? |
 | Peida pea ikoon HUD | `3300002C 00A0`<br>`3300002E 00F0` | ? |
@@ -20,7 +20,7 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 | Pane tagant tegelaseid | `3300168F 0003` | ? |
 | Eemalda vaenlased | `33001690 0001` | ? |
 | Postkastid? | `1AAC`* | `FFFF33` ei tea? |
-| Kollane tomat | `33001AB8 00FF`<br>`33001ABA 00FF` | Kogub kõik kollased tomatid |
+| Kollane tomat | `33001AB8 00FF`<br>`33001ABA 00FF`<br>`33001ABB 00F0` | Kogub kõik kollased tomatid |
 | Tasemed tehtud | `33001ABC 00FF`<br>`33001ABE 00FF` | Tee kõik tasemed valmis |
 | KESKUNDU HELGA REŽIIM | `33001AD6 0001` | Aktiveerib keskenduda Helga tegelasi (inglise 1, prantsuse 2, saksa 4) |
 | Nuppud vajutatud | `1AD8`* | Võid alati vahetada Arnold ja Helga kohta tegelaseid ilma sisestamist saladuskoodi: `28 46 64 82` |
@@ -28,6 +28,7 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 | Jalgpalli pead | `3300239E 0063` | Piiratuta jalgpalli pead |
 | Elud | `330023A0 0009` | Piiratuta elud |
 | Südad | `3300239C 0005` | Piiratuta südad |
+| Nähtamatu | `33003E01 0001` | Ei saa pihta ise |
 | Hüppa üles | `33004156 0001` | Annab kõrge hüppata |
 | Kiirusta üles | `33004157 0001` | Pole lisateavet |
 | Võim üles | `33004158 0001` | Pole lisateavet |
@@ -54,6 +55,8 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 239E - Jalgpalli pead (00-63 allkirjastatud)
 23A0 - Elud (00-09)
 239C - Südad (00-05)
+3DE7 - Alati tagurpidi tegelane (aktiveeri: 01)
+4155 - ???
 4156 - Hüppa üles (aktiveeri: 01)
 4157 - Kiirusta üles (aktiveeri: 01)
 4158 - Võim üles (aktiveeri: 01)
@@ -65,7 +68,9 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 47CE - Tualettpaberid (aktiveeri: 01)
 47D0 - Hambad (aktiveeri: 01)
 47D2 - Näts
+47FA - ???
 5A88 - Ei klippe, pääse kaudu ja ei saa lüüa paha tegelased (aktiveeri 00)
+5A90 - Peida vaenlased?
 5C64 - Boss HP elu (07-00)
 ```
 
