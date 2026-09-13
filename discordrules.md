@@ -80,4 +80,30 @@ Let's hang!, Alternate-Voice-Chat
 Three private channels were hidden to selected roles with limited permissions, not available to everyone for public.
 ```
 
+| Text channels | Description | Channel creation date |
+| --- | --- | --- |
+| rules | N/A | 28.03.2023 |
+| about-the-patakis | Info on The Patakis! | 28.03.2023 |
+| campaign-info | N/A | 28.03.2023 |
+| campaign-task-list | N/A | 28.03.2023 |
+| announcements | Campaign announcements and fandom events go here! | 28.03.2023 |
+| welcome-intros | Welcome to the server :) Feel free to introduce yourself! This is an adults-only server, so be prepared to confirm you are one, please. | 28.03.2023 |
+| general | N/A | 10.04.2023 |
+| hey-arnold-chat | General chat for Hey Arnold & The Patakis! See PINNED messages for cool shiz | 09.04.2023 |
+| thepatakis-campaign-chat | Campaign planning & discussion goes here! | 28.03.2023 |
+| uplifting-sh#t | The place for sharing uplifting news, memes, or life updates, etc! Bring that feel-good here | 09.04.2025 |
+| memes | N/A | 18.08.2024 |
+| pets-animals | show me ur fur babies....and other babies...made from fur | 17.08.2024 |
+| gaming | N/A | 19.08.2024 |
+| videos | N/A | 17.08.2024 |
+| music | N/A | 19.08.2024 |
+| movies-and-tv | N/A | 18.08.2024 |
+| cars-and-adulting | how do I even adult?? i thought cars had 3 wheels | 28.08.2024 |
+| political-heavy | space for people to voice about politics and heavy topics, particularly if they're negatively affecting you and ppl you care about. if you begin to feel uncomfortable you can/should disengage... and be aware your opinions might be criticized | 28.10.2024 |
+| tech-and-diy | For the purposes of tech and application help, DIY discussions, and tutorials on various things for those in the server that are interested | 17.01.2026 |
+| art | Post your art! Can be any medium, doesn't have to be Hey Arnold! Sketches & wips go to #wip :) Pls refrain from reposting art | 05.05.2023 |
+| wips-sketches | Your #wips and sketches go here! Doesn't have to be Hey Arnold...please refrain from reposting art | 23.05.2023 |
+| writing | Fanfic writer? Or have a fic you love? Link it here and show it off! | 17.08.2024 |
+| oc-chat | Post your OCs! | 19.08.2024 |
+
 - Martin Eesmaa
