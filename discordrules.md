@@ -9,8 +9,8 @@
 ```text
 Discord Server ID: 1090080158691643422
 Emojis: 52
-Members: 195 (dated on: 01.09.2026)
-Messages: 411K results
+Members: 196 (dated on: 13.09.2026)
+Messages: 423K results
 ```
 
 ***IMPORTANT!: Please note this server is only for 18+ adults due to safety reasons. Always read the rules below before you join the server.***
