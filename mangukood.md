@@ -2,6 +2,18 @@
 
 ![hatmeuhack](img/HAEUHACK-MartinEesmaa.png)
 
+## Mänguparool
+
+See mänguparool on `tzskmS)Cj` saad lahti kõik tasemed tehtud, kõik kollased tomatid kogumis, 9 elud, 99 jalgpalli pead, toideasjad ja isegi lisaks saladus Helga ruum.
+
+Ekraanpilt mängust:
+
+![hatmpass](img/HATM-pass.png)
+
+Piirkond valimine:
+
+![hatmareas](img/HATM-areas.png)
+
 ## Sohk koodid
 
 Sohkkoodid on tehtud poolt Martin Eesmaa.
