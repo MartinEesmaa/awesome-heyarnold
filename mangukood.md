@@ -4,7 +4,7 @@
 
 ## Mänguparool
 
-See mänguparool on `tzskmS)Cj` saad lahti kõik tasemed tehtud, kõik kollased tomatid kogumis, 9 elud, 99 jalgpalli pead, toideasjad ja isegi lisaks saladus Helga ruum.
+See mänguparool on `29526q8rV` saad lahti kõik tasemed tehtud, kõik kollased tomatid kogumis, 9 elud, 99 jalgpalli pead, toideasjad, punane tomat ja isegi lisaks saladus Helga ruum.
 
 Ekraanpilt mängust:
 
