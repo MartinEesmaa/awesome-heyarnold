@@ -102,11 +102,17 @@ If you're looking forward to join communities, you're feel free welcome to join 
 
 - [Hey Arnold - 3D Bedroom Journey](https://www.youtube.com/watch?v=TocQ7O2yOO0) - Arnold's bedroom journey in 3D animation of school project created by Rodrigo Cuadriello in May 2014.
 
-- [Hey Arnold's room in 3d](https://www.youtube.com/watch?v=IcZ36viEg-0) - Final project for virttual form class, made in Spring 2010. 3D rendering of Arnold's room from Hey Arnold done in AutoDesk Maya.
+- [Hey Arnold's room in 3d](https://www.youtube.com/watch?v=IcZ36viEg-0) - Final project for virtual form class, made in Spring 2010. 3D rendering of Arnold's room from Hey Arnold done in AutoDesk Maya.
 
 - [Arnold's Date (Hey Arnold Fan Animation)](https://www.youtube.com/watch?v=anFEgSw02XI) - Arnold went to see Helga in future called by a date. Done in April 2020 by Mary Sigona George (bizarremoons)
 
 - [Arnold Confession to Helga (Hey Arnold Animation)](https://www.youtube.com/watch?v=a2XOsA9SGOA) - Arnold is having a hard time and confesses to Helga. Done in November 2022 by Mary S. George (bizarremoons)
+
+- [GRIZZLY NI OSOWARETARA Animation Meme | Hey Arnold!](https://www.youtube.com/watch?v=7RSXYhjpJS0) - Fan animation meme done by The Pinkest Bow in June 2026. Note: Default English subtitles, for no subtitles version: [available there](https://www.youtube.com/watch?v=oIAiyGaOCyA).
+
+- [Hey Arnold 10 Years Later...](https://www.youtube.com/watch?v=vx0yBvK40hc) - 2D animation fan-made science fiction made by Cartoon Connect in September 2019.
+
+- [Clay Arnold!](https://www.youtube.com/watch?v=YimyoqHOqes) - A stop motion animation with clay lookalike made by FancyPantsBionicle in July 2019.
 
 Some Oatumn and Nebelihood may also have Hey Arnold! fan animations.
 
