@@ -24,26 +24,19 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 | --- | --- | --- |
 | Peida relv ikoon HUD | `33000024 00A0`<br>`33000026 00F0` | ? |
 | Peida pea ikoon HUD | `3300002C 00A0`<br>`3300002E 00F0` | ? |
-| Animatsioon tegelane liigutus menüüs | `0038`* | ? |
-| Keeled valimine keskendus | `33001510 0000` (vaikimisi inglise) | 00 - Inglise, 01 - Prantsuse, 02 - Saksa keel |
-| Mänguparool | `1680`* | 9 baitid parooli |
-| Piirkond | `3300168A` | 00: VAIKIMISI (Arnold tänav), 04: NICKI ELUTUBA, 08 - VÄRAV, 0C - FTI EHITUS, 10 - LINNATÄNAV, 14 - HELGA KODU |
 | TEGELANE | `3300168C 0000` (vaikimisi päevast Arnold) | 00-01: ARNOLD, 02-03: GERALD, 04-05: VANAISA PHIL, 06-07: VANAEMA GERTIE, 08-09: GERALD BUSS, 0A-0B: HELGA (paaris numbrid hele heledus, paaritu numbrid tume heledus) |
 | Pane tagant tegelaseid | `3300168F 0003` | ? |
 | Eemalda vaenlased | `33001690 0001` | ? |
-| Postkastid? | `1AAC`* | `FFFF33` ei tea? |
 | Kollane tomat | `33001AB8 00FF`<br>`33001ABA 00FF`<br>`33001ABB 00F0` | Kogub kõik kollased tomatid |
 | Tasemed tehtud | `33001ABC 00FF`<br>`33001ABE 00FF` | Tee kõik tasemed valmis |
-| KESKUNDU HELGA REŽIIM | `33001AD6 0001` | Aktiveerib keskenduda Helga tegelasi (inglise 1, prantsuse 2, saksa 4) |
-| Nuppud vajutatud | `1AD8`* | Võid alati vahetada Arnold ja Helga kohta tegelaseid ilma sisestamist saladuskoodi: `28 46 64 82` |
-| Aktiveeri saada läbi? | `22D0`* | ? |
+| KESKUNDU HELGA REŽIIM | `33001AD6 0001` | Aktiveeri, et keskenduda Helga tegelasi (inglise 1, prantsuse 2, saksa 4) |
 | Jalgpalli pead | `3300239E 0063` | Piiratuta jalgpalli pead |
 | Elud | `330023A0 0009` | Piiratuta elud |
 | Südad | `3300239C 0005` | Piiratuta südad |
 | Nähtamatu | `33003E01 0001` | Ei saa pihta ise |
-| Hüppa üles | `33004156 0001` | Annab kõrge hüppata |
-| Kiirusta üles | `33004157 0001` | Pole lisateavet |
-| Võim üles | `33004158 0001` | Pole lisateavet |
+| Hüppa ülesse | `33004156 0001` | Annab hüppatada kõrgemini (arv 0-5) |
+| Kiirusta ülesse | `33004157 0001` | Jookse kiiresti |
+| Võim ülesse | `33004158 0001` | Taas ülesse, et saad vaenlased pihta kõvasti väga |
 | Täht | `3300415D 0001` | Muusika täht algab ja saad ette vaenlased ilma pihta (NB: bossid asemel võib lõhkuda) |
 | Punane tomat | `330047C6 0001` | Piiramatu tomatid |
 | Paber | `330047C8 0001` | Piiramatu paberid |
@@ -51,9 +44,23 @@ Sohkkoodid on tehtud poolt Martin Eesmaa.
 | Korvpall | `330047CC 0001` | Piiramatu korvpallid |
 | Tualettpaberid | `330047CE 0001` | Vanaema Gertiel asja |
 | Hambad | `330047D0 0001` | Vanaisa Phili asja |
+| Boss HP elu | `33005C64 0000` | Ainult bossitasemed lõppus |
+
+---
+
+Pole mõtet (aga infot):
+
+| Kirjeldus | Muud koodid | Lisateave |
+| --- | --- | --- |
+| Animatsioon tegelane liigutus menüüs | `0038`* | ? |
+| Keeled valimine keskendus | `33001510 0000` (vaikimisi inglise) | 00 - Inglise, 01 - Prantsuse, 02 - Saksa keel |
+| Mänguparool | `1680`* | 9 baitid parooli |
+| Piirkond | `3300168A` | 00: VAIKIMISI (Arnold tänav), 04: NICKI ELUTUBA, 08 - VÄRAV, 0C - FTI EHITUS, 10 - LINNATÄNAV, 14 - HELGA KODU |
+| Postkastid? | `1AAC`* | `FFFF33` ei tea? |
+| Nuppud vajutatud | `1AD8`* | Võid alati vahetada Arnold ja Helga kohta tegelaseid ilma sisestamist saladuskoodi: `28 46 64 82` |
+| Aktiveeri saada läbi? | `22D0`* | ? |
 | Näts | `47D2`* | Vaikimisi relv |
 | Tundmatu 1 | `5A88`* | Ei klippe, pääse kaudu ja ei saa lüüa paha tegelased (aktiveeri 00) |
-| Boss HP elu | `33005C64 0000` | Ainult bossitasemed lõppus |
 
 ```text
 0038 - Animatsioon tegelane liigutus menüüs
