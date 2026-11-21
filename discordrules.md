@@ -8,10 +8,10 @@
 
 ```text
 Discord Server ID: 1090080158691643422
-Emojis: 63
+Emojis: 64
 Soundboards: 24
-Members (except bots): 195 (dated on: 07.11.2026)
-Messages: 456.477K public results
+Members (except bots): 201 (dated on: 21.11.2026)
+Messages: 467.007K public results
 ```
 
 ***IMPORTANT!: Please note this server is only for 18+ adults due to safety reasons. Always read the rules below before you join the server.***
@@ -52,7 +52,7 @@ The bots are in the server are following:
 | FixTweet | Automatically reposts social media links with fixed embed | 28.12.2025, 22:24:05 UTC |
 | Quark Logger | Free plan, currently it does not log the messages, only logs message for ban, kick, unban... | 05.11.2025 20:20:33 UTC |
 | Translator | Translates original message via translator command into another language | 26.01.2026, 18:11:18 UTC |
-| FredBoat | Play music via commands on voice channels | 21.2.2025, 17:01:06 UTC |
+| Jockie Music | Play music via commands on voice channels | 09.11.2026, 16:55:55 UTC |
 
 Each bots have their own privacy policies.
 
@@ -81,32 +81,32 @@ Let's hang!, Alternate-Voice-Chat
 Three private channels were hidden to selected roles with limited permissions, not available to everyone for public.
 ```
 
-| Text channels | Description | Channel creation date |
-| --- | --- | --- |
-| rules | N/A | 28.03.2023 |
-| about-the-patakis | Info on The Patakis! | 28.03.2023 |
-| campaign-info | N/A | 28.03.2023 |
-| campaign-task-list | N/A | 28.03.2023 |
-| announcements | Campaign announcements and fandom events go here! | 28.03.2023 |
-| welcome-intros | Welcome to the server :) Feel free to introduce yourself! This is an adults-only server, so be prepared to confirm you are one, please. | 28.03.2023 |
-| general | N/A | 10.04.2023 |
-| hey-arnold-chat | General chat for Hey Arnold & The Patakis! See PINNED messages for cool shiz | 09.04.2023 |
-| thepatakis-campaign-chat | Campaign planning & discussion goes here! | 28.03.2023 |
-| uplifting-sh#t | The place for sharing uplifting news, memes, or life updates, etc! Bring that feel-good here | 09.04.2025 |
-| memes | N/A | 18.08.2024 |
-| pets-animals | show me ur fur babies....and other babies...made from fur | 17.08.2024 |
-| gaming | N/A | 19.08.2024 |
-| videos | N/A | 17.08.2024 |
-| music | N/A | 19.08.2024 |
-| movies-and-tv | N/A | 18.08.2024 |
-| cars-and-adulting | how do I even adult?? i thought cars had 3 wheels | 28.08.2024 |
-| political-heavy | space for people to voice about politics and heavy topics, particularly if they're negatively affecting you and ppl you care about. if you begin to feel uncomfortable you can/should disengage... and be aware your opinions might be criticized | 28.10.2024 |
-| tech-and-diy | For the purposes of tech and application help, DIY discussions, and tutorials on various things for those in the server that are interested | 17.01.2026 |
-| art | Post your art! Can be any medium, doesn't have to be Hey Arnold! Sketches & wips go to #wip :) Pls refrain from reposting art | 05.05.2023 |
-| wips-sketches | Your #wips and sketches go here! Doesn't have to be Hey Arnold...please refrain from reposting art | 23.05.2023 |
-| writing | Fanfic writer? Or have a fic you love? Link it here and show it off! | 17.08.2024 |
-| oc-chat | Post your OCs! | 19.08.2024 |
-| Let's hang! | N/A | 21.09.2024 |
-| Alternate-Voice-Chat | N/A | 09.04.2025 |
+| Text channels | Description | Channel creation date | Threads count | Pinned messages count |
+| --- | --- | --- | --- | --- |
+| rules (read-only) | N/A | 28.03.2023 | N/A | N/A |
+| about-the-patakis (read-only) | Info on The Patakis! | 28.03.2023 | N/A | N/A |
+| campaign-info (read-only) | N/A | 28.03.2023 | N/A | N/A |
+| campaign-task-list (read-only) | N/A | 28.03.2023 | N/A | N/A |
+| announcements | Campaign announcements and fandom events go here! | 28.03.2023 | N/A | N/A |
+| welcome-intros | Welcome to the server :) Feel free to introduce yourself! This is an adults-only server, so be prepared to confirm you are one, please. | 28.03.2023 | N/A | N/A |
+| general | N/A | 10.04.2023 | 3 | 6 |
+| hey-arnold-chat | General chat for Hey Arnold & The Patakis! See PINNED messages for cool shiz | 09.04.2023 | 9 | 22 |
+| thepatakis-campaign-chat | Campaign planning & discussion goes here! | 28.03.2023 | N/A | 4 |
+| uplifting-sh#t | The place for sharing uplifting news, memes, or life updates, etc! Bring that feel-good here | 09.04.2025 | N/A | N/A |
+| memes | N/A | 18.08.2024 | N/A | N/A |
+| pets-animals | show me ur fur babies....and other babies...made from fur | 17.08.2024 | N/A | N/A |
+| gaming | N/A | 19.08.2024 | 1 | N/A |
+| videos | N/A | 17.08.2024 | 1 | 2 |
+| music | N/A | 19.08.2024 | N/A | N/A |
+| movies-and-tv | N/A | 18.08.2024 | 2 | N/A |
+| cars-and-adulting | how do I even adult?? i thought cars had 3 wheels | 28.08.2024 | N/A | N/A |
+| political-heavy | space for people to voice about politics and heavy topics, particularly if they're negatively affecting you and ppl you care about. if you begin to feel uncomfortable you can/should disengage... and be aware your opinions might be criticized | 28.10.2024 | N/A | 1 |
+| tech-and-diy | For the purposes of tech and application help, DIY discussions, and tutorials on various things for those in the server that are interested | 17.01.2026 | N/A | N/A |
+| art | Post your art! Can be any medium, doesn't have to be Hey Arnold! Sketches & wips go to #wip :) Pls refrain from reposting art | 05.05.2023 | 3 | 1 |
+| wips-sketches | Your #wips and sketches go here! Doesn't have to be Hey Arnold...please refrain from reposting art | 23.05.2023 | N/A | 1 |
+| writing | Fanfic writer? Or have a fic you love? Link it here and show it off! | 17.08.2024 | 5 | 3 |
+| oc-chat | Post your OCs! | 19.08.2024 | N/A | N/A |
+| Let's hang! | N/A | 21.09.2024 | N/A | N/A |
+| Alternate-Voice-Chat | N/A | 09.04.2025 | N/A | N/A |
 
 - Martin Eesmaa
